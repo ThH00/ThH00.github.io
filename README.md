@@ -8,8 +8,12 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
 
 [Vector Spaces](https://github.com/ThH00/ThH00.github.io/blob/main/vector-spaces.md)
 
+
+# In the Press
+- Article in Berkeley Engineering published on February 12, 2024: [Researchers explore the phenomenon of holonomy](https://engineering.berkeley.edu/news/2024/02/researchers-explore-the-phenomenon-of-holonomy/) 
+- Article in Berkeley Engineer magazine, Summer 2024:  [Ready to roll](https://engineering.berkeley.edu/news/2024/05/ready-to-roll/)
+
 <!-- 
 Sections to add
 # Publications
-# In the Press
 # Research Projects -->
