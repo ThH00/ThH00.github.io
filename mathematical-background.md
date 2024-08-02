@@ -26,6 +26,6 @@ An operation $[\cdot,\cdot]$ which maps two elements to another element is calle
 # A group
 
 
-[^1] Source: Papadopoulos Berkeley's ME281 notes
-[^2] Source: [Modern Robotics Textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
+[^1]: Source: Papadopoulos Berkeley's ME281 notes
+[^2]: Source: [Modern Robotics Textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
 
