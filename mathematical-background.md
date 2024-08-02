@@ -23,11 +23,12 @@ An operation $[\cdot,\cdot]$ which maps two elements to another element is calle
 3. $[{\bf A},[{\bf B},{\bf C}]]+[{\bf B},[{\bf C},{\bf A}]]+[{\bf C},[{\bf A},{\bf B}]]={\bf 0}\qquad$ (Jacobi identity)
 
 # A group
-A group ${V,\cdot}$ consists of a set $V$ and an operation $\cdot$ with the following properties for all $u, v, w\in V$.
+A group $\{V,\cdot\}$ consists of a set $V$ and an operation $\cdot$ (oftern referred to as multiplication, though it need not be the usual multiplication of numbers) with the following properties for all $u, v, w\in V$.
 
-1. $(u\cdot v)\cdot w = u\cdot(v\cdot w)\qquad$ (associativity)
-2. $1\cdot u = u\qquad$ (identity)
-3. $u^{-1} u = u u^{-1} = 1\qquad$ (inverse element)
+1. $u\cdot v \in V\qquad$ (closure)
+2. $(u\cdot v)\cdot w = u\cdot(v\cdot w)\qquad$ (associativity)
+3. $1\cdot u = u\cdot 1 = u\qquad$ (identity)
+4. $u^{-1} u = u u^{-1} = 1\qquad$ (inverse element)
 
 
 [^1]: Source: Papadopoulos Berkeley's ME281 notes
