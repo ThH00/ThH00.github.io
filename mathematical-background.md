@@ -32,7 +32,41 @@ A group $\{V,\cdot\}$ consists of a set $V$ and an operation $\cdot$ (oftern ref
 
 Example: The set of deformation tensors ${\bf F}$ (which have the physical property $det{\bf F}>0$) under the usual tensor product is a group.
 
-# Flow
+# Group Action
+
+Source: Wikipedia
+
+## Left Group Action
+
+If $G$ is a group with identity element $e$, and $X$ is a set, then a (left) group action $\alpha$ of $G$ on $X$ is a function
+
+$\alpha: G\times X\rightarrow X$,
+
+that satisfies the following two axioms:
+
+1. (identity)
+2. (compatibility)
+
+for all $g$ and $h$ in $G$ and all $x$ in $X$.
+
+## Right Group Action
+
+# Flow of Vector Fields
+
+## According to Wikipedia.
+
+A flow on a set $X$ is a group action of the additive group of real numbers on $X$.
+
+More explicitly, a flow is a mapping
+
+$\phi: X\times\mathbb{R}\rightarrow X$
+
+such that, for all $x\in X$ and all real numbers $s$ and $t$,
+
+$\phi(x,0) = x$
+$\phi(phi(x,t),s)=\phi(x,s+t)$.
+
+## According to[^1]
 
 
 [^1]: Source: Papadopoulos Berkeley's ME281 notes
