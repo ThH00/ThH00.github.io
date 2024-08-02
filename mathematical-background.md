@@ -17,9 +17,6 @@ A linear space (or vector space) $\{V,+;\mathbb{R},.\}$ consists of a set $V$ an
 A linear space is called an algebra if it is closed under some product operation.
 
 # A Lie Bracket
-Define the product of two elements ${\bf A}$ and ${\bf B}$ by
-$$[{\bf A}, {\bf B}] = {\bf A}{\bf B}-{\bf B}{\bf A},$$
-called the commutator of $A$ and $B$.
 
 An operation $[\cdot,\cdot]$ which maps two elements to another element is called a Lie bracket if the following three identities hold.
 1. $[{\bf A},{\bf B}] = -[{\bf B},{\bf A}]\qquad$ (anticommutative, skew)
