@@ -10,7 +10,7 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
 
 # Notes
 
-[Vector Spaces](https://github.com/ThH00/ThH00.github.io/blob/main/vector-spaces.md)
+[Mathematical background](mathematical-background.md)
 
 
 # In the Press
