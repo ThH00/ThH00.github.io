@@ -1,6 +1,6 @@
-# A Linear Space[^1]
+# A Linear Space
 
-A linear space (or vector space) $\{V,+;\mathbb{R},.\}$ consists of a set $V$ and two operations, an addition $(+)$ and a scalar multiplication $(.)$ with the following properties for all ${\bf u}, {\bf v}, {\bf w}\in V$, $\alpha, \beta\in\mathbb{R}$
+A linear space (or vector space) $\{V,+;\mathbb{R},.\}$ consists of a set $V$ and two operations, an addition $(+)$ and a scalar multiplication $(.)$ with the following properties for all ${\bf u}, {\bf v}, {\bf w}\in V$, $\alpha, \beta\in\mathbb{R}$[^1]
 1.   $\alpha\cdot{\bf u}+\beta\cdot{\bf v}\in V\qquad$ (closure)
 2.   $({\bf u}+{\bf v})+{\bf w} = {\bf u}+(\bf v)+{\bf w}\qquad$ (associativity w.r.t. +)
 3.   ${\bf 0}+{\bf v} = {\bf v}\qquad$ (existence of a zero element)
