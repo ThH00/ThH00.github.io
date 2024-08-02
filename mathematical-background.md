@@ -28,7 +28,7 @@ A group $\{V,\cdot\}$ consists of a set $V$ and an operation $\cdot$ (oftern ref
 1. $u\cdot v \in V\qquad$ (closure)
 2. $(u\cdot v)\cdot w = u\cdot(v\cdot w)\qquad$ (associativity)
 3. $1\cdot u = u\cdot 1 = u\qquad$ (identity)
-4. $u^{-1} u = u u^{-1} = 1\qquad$ (inverse element)
+4. $u^{-1}\cdot u = u\cdot u^{-1} = 1\qquad$ (inverse element)
 
 
 [^1]: Source: Papadopoulos Berkeley's ME281 notes
