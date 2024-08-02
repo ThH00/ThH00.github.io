@@ -12,6 +12,10 @@ A linear space (or vector space) $\{V,+;\mathbb{R},.\}$ consists of a set $V$ an
 8.   $\alpha\cdot({\bf u}+{\bf v}) = \alpha\cdot{\bf u}+\alpha\cdot{\bf v}\qquad$ (distributivity w.r.t. $V$)
 9.   $1\cdot{\bf v} = {\bf v}\qquad$ (existence of identity)
 
+# An Algebra
+
+A linear space is called an algebra if it is closed under some product operation.
+
 
 Souces
 - Papadopoulos Berkeley's ME281 notes
