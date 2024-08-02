@@ -6,9 +6,7 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
 
 # Publications
 
-[Cockett, 2022](https://doi.org/10.5281/zenodo.6476040).
 
-@Cockett2022
 
 # Notes
 
