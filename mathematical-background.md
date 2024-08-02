@@ -1,4 +1,4 @@
-# A Linear Space
+# A Linear Space [^1]
 
 A linear space (or vector space) $\{V,+;\mathbb{R},.\}$ consists of a set $V$ and two operations, an addition $(+)$ and a scalar multiplication $(.)$ with the following properties for all ${\bf u}, {\bf v}, {\bf w}\in V$, $\alpha, \beta\in\mathbb{R}$
 
@@ -12,21 +12,20 @@ A linear space (or vector space) $\{V,+;\mathbb{R},.\}$ consists of a set $V$ an
 8.   $\alpha\cdot({\bf u}+{\bf v}) = \alpha\cdot{\bf u}+\alpha\cdot{\bf v}\qquad$ (distributivity w.r.t. $V$)
 9.   $1\cdot{\bf v} = {\bf v}\qquad$ (existence of identity)
 
-# An Algebra
+# An Algebra [^2]
 
 A linear space is called an algebra if it is closed under some product operation.
 
-# A Lie Bracket
+# A Lie Bracket [^2]
 
 An operation $[\cdot,\cdot]$ which maps two elements to another element is called a Lie bracket if the following three identities hold.
 1. $[{\bf A},{\bf B}] = -[{\bf B},{\bf A}]\qquad$ (anticommutative, skew)
 2. $[{\bf A}+{\bf B},{\bf C}] = [{\bf A},{\bf C}]+[{\bf B},{\bf C}],\quad [c{\bf A},{\bf B}]=c[{\bf A},{\bf B}],\quad c\in\mathbb{R}\qquad$ (bilinear)
 3. $[{\bf A},[{\bf B},{\bf C}]]+[{\bf B},[{\bf C},{\bf A}]]+[{\bf C},[{\bf A},{\bf B}]]={\bf 0}\qquad$ (Jacobi identity)
 
+# A group
 
 
-
-Souces
-- Papadopoulos Berkeley's ME281 notes
-- [Modern Robotics Textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
+[^1] Source: Papadopoulos Berkeley's ME281 notes
+[^2] Source: [Modern Robotics Textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
 
