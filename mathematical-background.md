@@ -26,7 +26,7 @@ An operation $[\cdot,\cdot]$ which maps two elements to another element is calle
 A group ${V,\cdot}$ consists of a set $V$ and an operation $\cdot$ with the following properties for all $u, v, w\in V$.
 
 1. $(u\cdot v)\cdot w = u\cdot(v\cdot w)\qquad$ (associativity)
-2. $1\cdo u = u\qquad$ (identity)
+2. $1\cdot u = u\qquad$ (identity)
 3. $u^{-1} u = u u^{-1} = 1\qquad$ (inverse element)
 
 
