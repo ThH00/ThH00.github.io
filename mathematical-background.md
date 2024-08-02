@@ -44,12 +44,25 @@ $\alpha: G\times X\rightarrow X$,
 
 that satisfies the following two axioms:
 
-1. (identity)
-2. (compatibility)
+1. $\alpha(e,x) = x\qquad$ (identity)
+2. $\alpha(g,\alpha(h,x))\alpha(gh,x)\qquad$ (compatibility)
 
 for all $g$ and $h$ in $G$ and all $x$ in $X$.
 
+The group $G$ is said to act on $X$ (from the left). A set $X$ together with an action of $G$ is called a (left) G-set.
+
 ## Right Group Action
+
+Likewise, a right group action of $G$ on $X$ is a function
+
+$\alpha: X\times G\rightarrow X$,
+
+that satisfies the analogious axioms:
+
+1. $\alpha(x,e) = x\qquad$ (identity)
+2. $\alpha(\alpha(x,g),h)=\alpha(x,gh)\qquad$ (compatibility)
+
+for all $g$ and $h$ in $G$ and all $x$ in $X$.. 
 
 # Flow of Vector Fields
 
@@ -64,7 +77,7 @@ $\phi: X\times\mathbb{R}\rightarrow X$
 such that, for all $x\in X$ and all real numbers $s$ and $t$,
 
 $\phi(x,0) = x$
-$\phi(phi(x,t),s)=\phi(x,s+t)$.
+$\phi(\phi(x,t),s)=\phi(x,s+t)$.
 
 ## According to[^1]
 
