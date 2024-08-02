@@ -23,7 +23,20 @@ An operation $[\cdot,\cdot]$ which maps two elements to another element is calle
 2. $[{\bf A}+{\bf B},{\bf C}] = [{\bf A},{\bf C}]+[{\bf B},{\bf C}],\quad [c{\bf A},{\bf B}]=c[{\bf A},{\bf B}],\quad c\in\mathbb{R}\qquad$ (bilinear)
 3. $[{\bf A},[{\bf B},{\bf C}]]+[{\bf B},[{\bf C},{\bf A}]]+[{\bf C},[{\bf A},{\bf B}]]={\bf 0}\qquad$ (Jacobi identity)
 
+# Relationship between Small Rotation Tensors and Skew Symmetric Tensors
+
+If ${\bf R}$ represents a small rotations around some axis by a small angle $\Delta \theta$, we can Taylor-expand it in the form
+
+${\bf R} = {\bf I}+{\bf A}\Delta\theta+O(\Delta\theta)^2$,
+
+for some tensor ${\bf A}$ where ${\bf I}$ is the identity and $O(\Delta\theta)^2$ denotes terms of second or higher orders in $\Delta\theta$. Since ${\bf R}$ is a rotation tensor,
+
+${\bf R}{\bf R}^T = ({\bf I}+{\bf A}\Delta\theta+O())$
+
+
+
 
 Souces
 - Papadopoulos Berkeley's ME281 notes
 - [Modern Robotics Textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
+- [Lie Algebra Method for Pose Optimization Computation](https://iim.cs.tut.ac.jp/member/kanatani/papers/Liealgebra.pdf)
