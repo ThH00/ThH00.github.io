@@ -30,6 +30,10 @@ A group $\{V,\cdot\}$ consists of a set $V$ and an operation $\cdot$ (oftern ref
 3. $1\cdot u = u\cdot 1 = u\qquad$ (identity)
 4. $u^{-1}\cdot u = u\cdot u^{-1} = 1\qquad$ (inverse element)
 
+Example: The set of deformation tensors ${\bf F}$ (which have the physical property $det{\bf F}>0$) under the usual tensor product is a group.
+
+# Flow
+
 
 [^1]: Source: Papadopoulos Berkeley's ME281 notes
 [^2]: Source: [Modern Robotics Textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
