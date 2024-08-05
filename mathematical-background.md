@@ -33,10 +33,34 @@ A group $\{V,\cdot\}$ consists of a set $V$ and an operation $\cdot$ (oftern ref
 Examples
 - The set of deformation tensors ${\bf F}$ (which have the physical property $det({\bf F})>0$) under the usual tensor product is a group.
 - The group $GL(n,\mathbb{R})$ of invertible $n\times n$ matricies acts on $\mathbb{R}^n$ by matrix multiplication.
+- The group of rotations in 3 dimensional space $SO(3)$.
+
+# Group homomorphism
+
+Source: wikipedia
+
+Given two groups $(G,*)$ and $(H,\cdot)$ a group homomorphism from $(G,*)$ to $(H,\cdot)$ is a function $h: G\rightarrow H$ such that for all $u$ and $v$ in $G$, it holds that
+
+$h(u*v)= h(u)\cdot h(v)$
+
+where the group operation on the left side of the equation is that of $G$ and on the right side is that of $H$.
 
 # Group Action
 
-Source: Wikipedia
+Source: chatgpt
+
+Let $G$ be a group and $X$ be a set. A group action of $G$ on $X$ is a function $\cdot: G\times X\rightarrow X$ that satisfied two axioms:
+
+1. Identity: For all $x\in X$, $e\cdot x=x$ where $e$ is the identity element of $G$.
+2. Compatibility: For all $g,h\in G$ and $x\in X$, $(gh)\cdot x=g\cdot(h\cdot x)$.
+
+In other words, a group action allows each element of the group $G$ to "act" on the element of $X$ in a way that respects the group structure.
+
+Source: wikipedia
+
+A group action of a group $G$ on a set is a group homomorphism from $G$ to some group (under function composition) of function from $S$ to itself.
+
+
 
 ## Left Group Action
 
@@ -64,7 +88,12 @@ that satisfies the analogious axioms:
 1. $\alpha(x,e) = x\qquad$ (identity)
 2. $\alpha(\alpha(x,g),h)=\alpha(x,gh)\qquad$ (compatibility)
 
-for all $g$ and $h$ in $G$ and all $x$ in $X$.. 
+for all $g$ and $h$ in $G$ and all $x$ in $X$.
+
+## Notable properties of actions
+
+- free: The action is called free of the statement $g\cdot x=x$ for some $x\in X$ already implies that $g=e_G$. In other words, no non-trivial element of $G$ fixes a point of $X$.
+- transitive: the action of $G$ on $X$ is called transitive if for any two points $x,y\in X$ there exists a $g\in G$ so that $g\cdot x=y$.
 
 # Flow of Vector Fields
 
