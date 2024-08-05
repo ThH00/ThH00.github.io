@@ -1,4 +1,4 @@
-# A Linear Space
+# Linear Space
 
 A linear space (or vector space) $\{V,+;\mathbb{R},.\}$ consists of a set $V$ and two operations, an addition $(+)$ and a scalar multiplication $(.)$ with the following properties for all ${\bf u}, {\bf v}, {\bf w}\in V$, $\alpha, \beta\in\mathbb{R}$[^1]
 1.   $\alpha\cdot{\bf u}+\beta\cdot{\bf v}\in V\qquad$ (closure)
@@ -11,18 +11,42 @@ A linear space (or vector space) $\{V,+;\mathbb{R},.\}$ consists of a set $V$ an
 8.   $\alpha\cdot({\bf u}+{\bf v}) = \alpha\cdot{\bf u}+\alpha\cdot{\bf v}\qquad$ (distributivity w.r.t. $V$)
 9.   $1\cdot{\bf v} = {\bf v}\qquad$ (existence of identity)
 
-# An Algebra
+# Inner Product (over the set of real numbers)
+
+Source: wikipedia
+
+An inner product space is a vector space $V$ over the set of real numbers $\mathbb{R}$ together with an inner product, that is, a map
+
+$<\cdot,\cdot>:V\timesV\rightarrow \mathbb{R}$
+
+that satisfies the following three properties for all vectors $x,y,z\in V$ and all scalars $a,b\in F$.
+
+1. Symmetry $<x,y>=<y,x>$.
+2. Linearity $<ax+by,z> = a<x,z>+b<y,z>$.
+3. Positive-definiteness: if $x$ is not zero, then $<x,x>>0$.
+
+# Affine Space
+
+# Euclidean Vector Space
+
+A Eulcidean vector space is a finite-dimensional inner product space over the real numbers.
+
+# Euclidean Space
+
+A Euclidean space (sometimes called Euclidean affine space) is an affine space over the reals such that the associated vector space is a Euclidean vector space.
+
+# Algebra
 
 A linear space is called an algebra if it is closed under some product operation.[^2]
 
-# A Lie Bracket
+# Lie Bracket
 
 An operation $[\cdot,\cdot]$ which maps two elements to another element is called a Lie bracket if the following three identities hold.[^2]
 1. $[{\bf A},{\bf B}] = -[{\bf B},{\bf A}]\qquad$ (anticommutative, skew)
 2. $[{\bf A}+{\bf B},{\bf C}] = [{\bf A},{\bf C}]+[{\bf B},{\bf C}],\quad [c{\bf A},{\bf B}]=c[{\bf A},{\bf B}],\quad c\in\mathbb{R}\qquad$ (bilinear)
 3. $[{\bf A},[{\bf B},{\bf C}]]+[{\bf B},[{\bf C},{\bf A}]]+[{\bf C},[{\bf A},{\bf B}]]={\bf 0}\qquad$ (Jacobi identity)
 
-# A group
+# Group
 A group $\{V,\cdot\}$ consists of a set $V$ and an operation $\cdot$ (oftern referred to as multiplication, though it need not be the usual multiplication of numbers) with the following properties for all $u, v, w\in V$.
 
 1. $u\cdot v \in V\qquad$ (closure)
