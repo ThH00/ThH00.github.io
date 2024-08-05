@@ -77,6 +77,7 @@ $\phi: X\times\mathbb{R}\rightarrow X$
 such that, for all $x\in X$ and all real numbers $s$ and $t$,
 
 $\phi(x,0) = x$
+
 $\phi(\phi(x,t),s)=\phi(x,s+t)$.
 
 ## According to[^1]
