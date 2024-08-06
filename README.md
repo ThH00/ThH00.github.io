@@ -8,7 +8,7 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
 
 This is a fact [Smith2020].
 
-[Smith2020]: Smith, John. *The Book of Facts*. 2020
+
 
 # Notes
 
@@ -27,3 +27,5 @@ Sections to add
 
 \bibentry{honein2021gibbs}
 # Research Projects -->
+
+[Smith2020]: Smith, John. *The Book of Facts*. 2020.
