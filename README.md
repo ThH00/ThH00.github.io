@@ -6,7 +6,7 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
 
 # Publications
 
-This is a fact [Smith2020].
+
 
 
 

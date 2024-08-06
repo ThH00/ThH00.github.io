@@ -17,7 +17,7 @@ Source: wikipedia
 
 An inner product space is a vector space $V$ over the set of real numbers $\mathbb{R}$ together with an inner product, that is, a map
 
-$<\cdot,\cdot>:V\timesV\rightarrow \mathbb{R}$
+$<\cdot,\cdot>:V\times V\rightarrow \mathbb{R}$
 
 that satisfies the following three properties for all vectors $x,y,z\in V$ and all scalars $a,b\in F$.
 
