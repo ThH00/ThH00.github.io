@@ -6,11 +6,11 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
 
 # Publications
 
-- Honein, T. E. ; O’Reilly, O. M.: On the Gibbs-Appell Equations for the Dynamics of Rigid Bodies. In: Journal of Applied Mechanics 88 (2021), Nr. 7, 074501-074503. https://doi.org/10.1115/1.4051181
+- Honein, T. E. ; O’Reilly, O. M.: [On the Gibbs-Appell Equations for the Dynamics of Rigid Bodies](https://doi.org/10.1115/1.4051181). In: Journal of Applied Mechanics 88 (2021), Nr. 7, 074501-074503. 
 
-- Honein, T. E. ; O’Reilly, O. M.: The geometry of equations of motion: particles in equivalent universes. In: Nonlinear Dynamics 144 (2021), 2979–2994. https://doi.org/10.1007/s11071-021-06565-2
+- Honein, T. E. ; O’Reilly, O. M.: [The geometry of equations of motion: particles in equivalent universes](https://doi.org/10.1007/s11071-021-06565-2). In: Nonlinear Dynamics 144 (2021), 2979–2994. 
 
-- Honein, T. E. ; O’Reilly, O. M.: Explorations of the holonomy of a rolling sphere. In: Proceedings of the Royal Society A 480 (2024), Nr. 2282, 20230684. https://doi.org/10.1098/rspa.2023.0684
+- Honein, T. E. ; O’Reilly, O. M.: [Explorations of the holonomy of a rolling sphere](https://doi.org/10.1098/rspa.2023.0684). In: Proceedings of the Royal Society A 480 (2024), Nr. 2282, 20230684. 
 
 - Honein, T. E. ; O’Reilly, O. M.: On the Dynamics of Transporting Cylinders. In: Submitted to Nonlinear Dynamics (2024)
 
