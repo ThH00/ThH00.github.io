@@ -1,3 +1,5 @@
+American University of Beirut, Assistant Professor
+
 # Biography
 
 <img src="headshot31072024.jpg" width="200">
