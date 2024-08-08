@@ -1,4 +1,5 @@
-American University of Beirut, Assistant Professor
+American University of Beirut, Assistant Professor\
+Mechanical Engineering Department
 
 # Biography
 
