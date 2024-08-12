@@ -1,5 +1,5 @@
-American University of Beirut, Assistant Professor\
-Mechanical Engineering Department
+Assistant Professor at American University of Beirut<br>
+Department of Mechanical Engineering
 
 # Biography
 
@@ -18,11 +18,13 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
 - Honein, T. E. ; O’Reilly, O. M.: On the Dynamics of Transporting Cylinders. In: Submitted to Nonlinear Dynamics (2024)
 
 # Classes
-- Fall 2024, MECH230-2: Dynamics
+- [Fall 2024, MECH230-2: Dynamics](08-2024-dynamics/homepage.md)
 
 # Notes
-
-[Mathematical background](mathematical-background.md)
+[In the works]
+- [Rotations](notes/rotations.md)
+- [Mathematical background](notes/mathematical-background.md)
+- [Tensor Algebra](notes/tensor-algebra.md)
 
 
 # In the Press

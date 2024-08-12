@@ -119,6 +119,8 @@ for all $g$ and $h$ in $G$ and all $x$ in $X$.
 - free: The action is called free of the statement $g\cdot x=x$ for some $x\in X$ already implies that $g=e_G$. In other words, no non-trivial element of $G$ fixes a point of $X$.
 - transitive: the action of $G$ on $X$ is called transitive if for any two points $x,y\in X$ there exists a $g\in G$ so that $g\cdot x=y$.
 
+# Lie Group
+
 # Flow of Vector Fields
 
 ## According to Wikipedia.
