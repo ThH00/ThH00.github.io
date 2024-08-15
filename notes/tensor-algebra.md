@@ -2,7 +2,7 @@
 
 ## The Tensor Product
 
-A tensor is a linear transformation that maps a vector into another vector.
+A tensor is a linear transformation that maps a vector into another vector. Tensors are invariant is that they are independent of the chosen basis
 
 We define the tensor product operation $\otimes$, also know as the bun product after its resemblence to [the hot cross bun](https://en.wikipedia.org/wiki/Hot_cross_bun), such that for the vectors ${\bf a}$, ${\bf b}$, and ${\bf u}$,
 $$
