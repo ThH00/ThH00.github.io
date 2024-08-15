@@ -43,7 +43,7 @@ $
 \begin{align}
 \begin{split}
     & {\bf F} = m{\bf a}\\
-    & \{{\bf E}_x, {\bf E}_y, {\bf E}_z\}
+    & {\bf E}_x, {\bf E}_y, {\bf E}_z
 \end{split}
 \end{align}
 $
