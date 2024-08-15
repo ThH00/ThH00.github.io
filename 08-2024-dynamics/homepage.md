@@ -7,8 +7,8 @@ Office Hours: M 10-11am, W 3:30-4:30pm, Th 4-5pm in Bechtel 532
 
 | Week | Date | Topic & Chapter in Primer | Chapter Number | Homework | Suggested Problems | Relevant Equations |
 | ---- | ------- |-------------------------- | ------- |-------- | ------- | ------ |
-| 1 | Aug 26 & 28 | Preliminary on Vectors and Calculus & Matlab<br>Single Particle: Cartesian Coordinates | A; 1 | HW1 due Sep 2 | Set 1 | ${\bf F} = m{\bf a}$<br>$\{{\bf E}_x,{\bf E}_y,{\bf E}_z\}$ |
-| 2 | Sep 2 & 4 | Single Particle: Polar Coordinates | 2 | HW2 due Sep 9 | Set 2 | ${\bf F} = m{\bf a}$<br>$\{{\bf e}_r,{\bf e}_\theta,{\bf e}_z\}$ |
+| 1 | Aug 26 & 28 | Preliminary on Vectors and Calculus & Matlab<br>Single Particle: Cartesian Coordinates | A<br> 1 | HW1 due Sep 2 | Set 1 | ${\bf F} = m{\bf a}$<br>$\{{\bf E}_x,{\bf E}_y,{\bf E}_z\}$ |
+| 2 | Sep 2 & 4 | Single Particle: Polar Coordinates | 2 | HW2 due Sep 9 | Set 2 | ${\bf F} = m{\bf a}$ <br> $\{{\bf e}_r,{\bf e}_{\theta},{\bf e}_z\}$ |
 | 3 | Sep 9 & 11 | Single Particle: Serret-Frenet Triads | 3 | HW3 due Sep 16 | Set 3 | ${\bf F} = m{\bf a}$<br>$\{{\bf e}_t,{\bf e}_n,{\bf e}_b\}$ |
 | 4 | Sep 16 & 18 | Single Particle: Further Kinetics | 4 | HW3 due Sep 16 | Set 3 | ${\bf F} = m{\bf a}$<br>$\{{\bf e}_t,{\bf e}_n,{\bf e}_b\}$ |
 | 5 | Sep 23 & 25 | Single Particle: Work and Energy | 5 | HW3 due Sep 16 | Set 3 | ${\bf F} = m{\bf a}$<br>$\{{\bf e}_t,{\bf e}_n,{\bf e}_b\}$ |
