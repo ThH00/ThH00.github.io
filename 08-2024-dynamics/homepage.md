@@ -10,8 +10,8 @@ Office Hours: M 10-11am, W 3:30-4:30pm, Th 4-5pm in Bechtel 532
 | 1 | Aug 26 & 28 | A. Preliminary on Vectors and Calculus & Matlab <br> 1. Single Particle: Cartesian Coordinates | 1/1-1/7, 2/2, 2/4, 3/4 | HW1 due Sep 4 | Set 1 |
 | 2 | Sep 2 & 4 | 2. Single Particle: Polar Coordinates | 2/6,3/5 | HW2 due Sep 11 | Set 2 |
 | 3 | Sep 9 & 11 | 3. Single Particle: Serret-Frenet Triads | 2/5, 2/7, 3/5 | HW3 due Sep 18 | Set 3 |
-| 4 | Sep 16[^1] & 18 | 4. Single Particle: Further Kinetics | 3/5 | HW3 due Sep 25 | Set 4 |
-| 5 | Sep 23 & 25 | 5. Single Particle: Work and Energy | 3/6-3/7 | HW4 due Oct 2 | Set 5 |
+| 4 | Sep 16[^1] & 18 | 4. Single Particle: Further Kinetics | 3/5 | HW4 due Sep 25 | Set 4 |
+| 5 | Sep 23 & 25 | 5. Single Particle: Work and Energy | 3/6-3/7 | | Set 5 |
 | | Saturday Sep 28 | Midterm 1 |
 | 6 | Sep 30 & Oct 2 | 6.1-6.2 Linear Momenta and Angular Momenta | 3/9-3/10 | HW5 due Oct 10 | Set 6 |
 | 7 | Oct 7 & 10 | 6.3-6.5 Collisions of Particles | 3/12 | HW6 due Oct 16 | Set 7 |
@@ -27,26 +27,3 @@ Office Hours: M 10-11am, W 3:30-4:30pm, Th 4-5pm in Bechtel 532
 [^1]: Tentative date for Prophet's birthday.
 
 Please read the complete [syllabus]() carefully.
-
-## Agenda
-
-### Lecture 1 - Aug 26
-
-
-
-1. Dynamics: An Overview
-2. A Very Brief Continuum Mechanics Perspective
-3. A Refresher on Vector Calculus
-
-Relevant Equations:
-
-$
-\begin{align}
-\begin{split}
-    & {\bf F} = m{\bf a}\\
-    & {\bf E}_x, {\bf E}_y, {\bf E}_z
-\end{split}
-\end{align}
-$
-
-### Lecture 2 - Aug 28
