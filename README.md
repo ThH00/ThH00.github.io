@@ -1,5 +1,8 @@
 Assistant Professor at American University of Beirut<br>
-Department of Mechanical Engineering
+Department of Mechanical Engineering<br>
+
+Email: theresa.honein at aub.edu.lb<br>
+Office: Bechtel 532
 
 # Biography
 
@@ -20,12 +23,13 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
 # Classes
 - [Fall 2024, MECH230-2: Dynamics](08-2024-dynamics/homepage.md)
 
+<!--
 # Notes
 [In the works]
 - [Rotations](notes/rotations.md)
 - [Mathematical background](notes/mathematical-background.md)
 - [Tensor Algebra](notes/tensor-algebra.md)
-
+-->
 
 # In the Press
 - Article in Berkeley Engineer magazine, Summer 2024:  [Ready to roll](https://engineering.berkeley.edu/news/2024/05/ready-to-roll/)
