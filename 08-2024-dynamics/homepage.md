@@ -27,3 +27,6 @@ Office Hours: M 10-11am, W 3:30-4:30pm, Th 11am-12noon in Bechtel 532
 [^1]: Tentative date for Prophet's birthday.
 
 Please read the complete [syllabus]() carefully.
+
+Check out these two excellent videos of Professor Noel Perkins explaining the active learning techniques he uses to teach dynamics! [Part 1](https://www.youtube.com/watch?v=wHEys-JHeb8), [Part 2](https://www.youtube.com/watch?v=96j69u4v-wE). We will using these techniques ourselves.
+
