@@ -3,11 +3,12 @@
 
 Lecture: MW 2:00-3:15 pm in Bechtel 211\
 Discussion: M 3:30-4:45 pm in Bechtel 211 starting Monday September 2\
-Office Hours: M 10-11am, W 3:30-4:30pm, Th 11am-12noon in Bechtel 532
+Office Hours: M 3:30-4:30pm, W 10-11am, Th 11am-12noon in Bechtel 532
 
 | Week | Date | Topic & Chapter in Primer | Topic from MKB | Homework | Suggested Problems |
 | ---- | ------- |-------------------------- | ------- |-------- | ------- |
-| 1 | Aug 26 & 28 | A. Preliminary on Vectors and Calculus & Matlab <br> 1. Single Particle: Cartesian Coordinates | 1/1-1/7, 2/2, 2/4, 3/4 | [HW01](MECH230_HW01.pdf) due Sep 4 | Set 1 |
+| 1 | Aug 26 | A. Preliminary on Vectors and Calculus & Matlab <br> 1. Single Particle: Cartesian Coordinates | 1/1-1/7, 2/2, 2/4, 3/4 |  | [Set 1](sets/Set01.pdf) |
+| 1 | Aug 28 | 1. Single Particle: Cartesian Coordinates (cont.) | 1/1-1/7, 2/2, 2/4, 3/4 | [HW01](HW/HW01.pdf) due Sep 4 |  |
 | 2 | Sep 2 & 4 | 2. Single Particle: Polar Coordinates | 2/6,3/5 |  | Set 2 |
 | 3 | Sep 9 & 11 | 3. Single Particle: Serret-Frenet Triads | 2/5, 2/7, 3/5 |  | Set 3 |
 | 4 | Sep 16[^1] & 18 | 4. Single Particle: Further Kinetics | 3/5 |  | Set 4 |
@@ -26,11 +27,17 @@ Office Hours: M 10-11am, W 3:30-4:30pm, Th 11am-12noon in Bechtel 532
 
 [^1]: Tentative date for Prophet's birthday.
 
+### Downloading Matlab
 
-Lecture 1
+Please visit https://matlab.mathworks.com/, and select sign in from the to right corner of the page, please sign in with your AUBnet account, after signing in you will find MATLAB button on the top of the page, click on MATLAB and select install MATLAB, will redirect you to another page, please click on download for windows, and save the file, after download has completed, please start the installation, will ask you to sign in again, and accept the license agreement, select the license and click next, click next on the location of the installation, please select needed modules to install and click next, pleas check add shortcut to desktop, and uncheck improve MATLAB,, click next and then click begin install.
+
+
+## Agenda
+
+### Lecture 1
 - Dynamics: An overview.
-- Syllabus: Please read the complete [syllabus]() carefully.
-- Active learning: Check out these two excellent videos of Professor Noel Perkins explaining the active learning techniques he uses to teach dynamics! [Part 1](https://www.youtube.com/watch?v=wHEys-JHeb8), [Part 2](https://www.youtube.com/watch?v=96j69u4v-wE). We will using these techniques ourselves.
-- [A note on units](Note_on_Units.pdf).
+- Syllabus: Please read the complete [syllabus](MECH230-Syllabus-Sec2.pdf) carefully.
+- Active learning: Check out these two excellent videos of Professor Noel Perkins from the Univesity of Michigan at Ann Arbor explaining the active learning techniques he uses to teach dynamics! [Part 1](https://www.youtube.com/watch?v=wHEys-JHeb8), [Part 2](https://www.youtube.com/watch?v=96j69u4v-wE). We will using these techniques ourselves.
+- [A note on units](notes/Note_on_Units.pdf).
 
 
