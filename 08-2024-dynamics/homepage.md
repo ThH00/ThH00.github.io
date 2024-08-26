@@ -3,7 +3,7 @@
 
 Lecture: MW 2:00-3:15 pm in Bechtel 211\
 Discussion: M 3:30-4:45 pm in Bechtel 211 starting Monday September 2\
-Office Hours: M 3:30-4:30pm, W 10-11am, Th 11am-12noon in Bechtel 532
+Office Hours: M 10-11am, W 3:30-4:30pm, Th 11am-12noon in Bechtel 532
 
 | Week | Date | Topic & Chapter in Primer | Topic from MKB | Homework | Suggested Problems |
 | ---- | ------- |-------------------------- | ------- |-------- | ------- |
