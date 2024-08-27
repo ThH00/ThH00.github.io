@@ -27,17 +27,37 @@ Office Hours: M 10-11am, W 3:30-4:30pm, Th 11am-12noon in Bechtel 532
 
 [^1]: Tentative date for Prophet's birthday.
 
+## Announcements
+
 ### Downloading Matlab
 
-Please visit https://matlab.mathworks.com/, and select sign in from the to right corner of the page, please sign in with your AUBnet account, after signing in you will find MATLAB button on the top of the page, click on MATLAB and select install MATLAB, will redirect you to another page, please click on download for windows, and save the file, after download has completed, please start the installation, will ask you to sign in again, and accept the license agreement, select the license and click next, click next on the location of the installation, please select needed modules to install and click next, pleas check add shortcut to desktop, and uncheck improve MATLAB,, click next and then click begin install.
+Please visit [https://matlab.mathworks.com/](https://matlab.mathworks.com/), and select sign in from the to right corner of the page, please sign in with your AUBnet account, after signing in you will find MATLAB button on the top of the page, click on MATLAB and select install MATLAB, will redirect you to another page, please click on download for windows, and save the file, after download has completed, please start the installation, will ask you to sign in again, and accept the license agreement, select the license and click next, click next on the location of the installation, please select needed modules to install and click next, pleas check add shortcut to desktop, and uncheck improve MATLAB,, click next and then click begin install.
 
+### Units
+Before completing the recommended problems, please read this [note on units](notes/Note_on_Units.pdf).
+
+### Syllabus
+Syllabus: Please read the complete [syllabus](MECH230-Syllabus-Sec2.pdf) carefully.
+
+### Active Learning
+
+Check out these two excellent videos of Professor Noel Perkins from the Univesity of Michigan at Ann Arbor explaining the active learning techniques he uses to teach dynamics! [Part 1](https://www.youtube.com/watch?v=wHEys-JHeb8), [Part 2](https://www.youtube.com/watch?v=96j69u4v-wE). We will using these techniques ourselves.
 
 ## Agenda
 
-### Lecture 1
+### Lecture 1 - Aug 26
 - Dynamics: An overview.
-- Syllabus: Please read the complete [syllabus](MECH230-Syllabus-Sec2.pdf) carefully.
-- Active learning: Check out these two excellent videos of Professor Noel Perkins from the Univesity of Michigan at Ann Arbor explaining the active learning techniques he uses to teach dynamics! [Part 1](https://www.youtube.com/watch?v=wHEys-JHeb8), [Part 2](https://www.youtube.com/watch?v=96j69u4v-wE). We will using these techniques ourselves.
-- [A note on units](notes/Note_on_Units.pdf).
+- Review of vector geometry (dot product, cross product, magnitude, projections, Cartesian coordinates)
+- Basic particle kinematics concepts (position vector, velocity, acceleration)
+- Rectilinear motion (given acceleration as function of time, speed, or position)
+
+### Lecture 2 - Aug 28
+- Rectilinear motion example.
+- Particle kinetics
+- Four steps to problem solving using the balance of linear momentum (BoLM, a.k.a. Newton's second law or Euler's first law).
+- Gravitational force model.
+- Newton's thirds law.
+
+
 
 
