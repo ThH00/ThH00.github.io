@@ -8,7 +8,7 @@ Office Hours: M 10-11am, W 3:30-4:30pm, Th 11am-12noon in Bechtel 532
 | Week | Date | Topic & Chapter in Primer | Topic from MKB | Homework | Suggested Problems |
 | ---- | ------- |-------------------------- | ------- |-------- | ------- |
 | 1 | Aug 26 | A. Preliminary on Vectors and Calculus & Matlab <br> 1. Single Particle: Cartesian Coordinates | 1/1-1/7, 2/2, 2/4, 3/4 |  | [Set 0](sets/Set00.pdf)<br>[Set 1](sets/Set01.pdf) |
-| 1 | Aug 28 | 1. Single Particle: Cartesian Coordinates (cont.) | 1/1-1/7, 2/2, 2/4, 3/4 | [HW01](HW/HW01.pdf) due Sep 4 | Set 2 |
+| 1 | Aug 28 | 1. Single Particle: Cartesian Coordinates (cont.) | 1/1-1/7, 2/2, 2/4, 3/4 | [HW01](HW/HW01.pdf) due Sep 4 | [Set 2](sets/Set02.pdf) |
 | 2 | Sep 2 & 4 | 2. Single Particle: Polar Coordinates | 2/6,3/5 |  |  |
 | 3 | Sep 9 & 11 | 3. Single Particle: Serret-Frenet Triads | 2/5, 2/7, 3/5 |  |  |
 | 4 | Sep 16[^1] & 18 | 4. Single Particle: Further Kinetics | 3/5 |  |  |
@@ -53,10 +53,10 @@ Check out these two excellent videos of Professor Noel Perkins from the Univesit
 
 ### Lecture 2 - Aug 28
 - Rectilinear motion example, MKB 2/28 from Set 1.
-- Particle kinetics
+- Arc-length.
+- Particle kinetics: BoLM and action-reaction.
 - Four steps to problem solving using the balance of linear momentum (BoLM, a.k.a. Newton's second law or Euler's first law).
 - Gravitational force model.
-- Newton's thirds law.
 
 
 
