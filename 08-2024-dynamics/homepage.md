@@ -56,6 +56,9 @@ Check out these two excellent videos of Professor Noel Perkins from the Univesit
 - Arc-length.
 - Particle kinetics: BoLM and action-reaction.
 - Four steps to problem solving using the balance of linear momentum (BoLM, a.k.a. Newton's second law or Euler's first law).
+- [Example](notes/question_cross_product.pdf): Position, Velocity, Acceleration, and Cross Product
+
+### Lecture 3 - Sep 2
 - Gravitational force model.
 
 
