@@ -29,6 +29,10 @@ Office Hours: M 10-11am, W 3:30-4:30pm, Th 11am-12noon in Bechtel 532
 
 ## Announcements
 
+<span style="color:red">
+**Exceptionally on Monday September 2, office hours will be from 9-10am instead of 10-11am.**
+</span>
+
 ### Downloading Matlab
 
 Please visit [https://matlab.mathworks.com/](https://matlab.mathworks.com/), and select sign in from the to right corner of the page, please sign in with your AUBnet account, after signing in you will find MATLAB button on the top of the page, click on MATLAB and select install MATLAB, will redirect you to another page, please click on download for windows, and save the file, after download has completed, please start the installation, will ask you to sign in again, and accept the license agreement, select the license and click next, click next on the location of the installation, please select needed modules to install and click next, pleas check add shortcut to desktop, and uncheck improve MATLAB,, click next and then click begin install.
@@ -59,6 +63,10 @@ Check out these two excellent videos of Professor Noel Perkins from the Univesit
 - [Example](notes/question_cross_product.pdf): Position, Velocity, Acceleration, and Cross Product
 
 ### Lecture 3 - Sep 2
+- Cylindrical polar coordinate system.
+
+### Lecture 4 - Sep 4
+- Constrained motion.
 - Gravitational force model.
 
 
