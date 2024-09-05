@@ -12,7 +12,7 @@ Office Hours: M 10:30-11:30am, T 1:30-2:30pm, Th 10:30-11:30am in Bechtel 532
 | 2 | Sep 2 | 2. Single Particle: Polar Coordinates | 2/6,3/5 |  | [Set 3](sets/Set03.pdf) |
 | 2 | Sep 4 | 2. Single Particle: Polar Coordinates | 2/6,3/5 | [HW02](HW/HW02.pdf) due Sep 11 | [Set 4](sets/Set04.pdf) |
 | 3 | Sep 9 & 11 | 3. Single Particle: Serret-Frenet Triads | 2/5, 2/7, 3/5 |  |  |
-| 4 | Sep 16[^1] & 18 | 4. Single Particle: Further Kinetics | 3/5 |  |  |
+| 4 | Sep 18[^1] | 4. Single Particle: Further Kinetics | 3/5 |  |  |
 | 5 | Sep 23 & 25 | 5. Single Particle: Work and Energy | 3/6-3/7 | |  |
 | | Saturday Sep 28 | Midterm 1 |
 | 6 | Sep 30 & Oct 2 | 6.1-6.2 Linear Momenta and Angular Momenta | 3/9-3/10 |  |  |
@@ -26,7 +26,7 @@ Office Hours: M 10:30-11:30am, T 1:30-2:30pm, Th 10:30-11:30am in Bechtel 532
 | 13 | Nov 18 & 20 | 9. Planar Dynamics of Rigid Bodies | 6/5-6/6 |  |  |
 | 14 | Nov 25 & 27 | 10. Systems of Rigid Bodies | 6/8 |  |  |
 
-[^1]: Tentative date for Prophet's birthday.
+[^1]: September 16 is a holiday.
 
 ## Announcements
 
