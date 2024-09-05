@@ -3,7 +3,7 @@
 
 Lecture: MW 2:00-3:15 pm in Bechtel 211\
 Discussion: M 3:30-4:45 pm in Bechtel 211 starting Monday September 2\
-Office Hours: M 10-11am, W 3:30-4:30pm, Th 11am-12noon in Bechtel 532
+Office Hours: M 10:30-11:30am, T 1:30-2:30pm, Th 10:30-11:30am in Bechtel 532
 
 | Week | Date | Topic & Chapter in Primer | Topic from MKB | Homework | Suggested Problems |
 | ---- | ------- |-------------------------- | ------- |-------- | ------- |
@@ -30,22 +30,16 @@ Office Hours: M 10-11am, W 3:30-4:30pm, Th 11am-12noon in Bechtel 532
 
 ## Announcements
 
-<span style="color:red">
-**Exceptionally on Monday September 2, office hours will be from 9-10am instead of 10-11am.**
-</span>
+### Syllabus
+Syllabus: Please read the complete [syllabus](MECH230-Syllabus-Sec2.pdf) carefully.
 
 ### Downloading Matlab
-
 Please visit [https://matlab.mathworks.com/](https://matlab.mathworks.com/), and select sign in from the to right corner of the page, please sign in with your AUBnet account, after signing in you will find MATLAB button on the top of the page, click on MATLAB and select install MATLAB, will redirect you to another page, please click on download for windows, and save the file, after download has completed, please start the installation, will ask you to sign in again, and accept the license agreement, select the license and click next, click next on the location of the installation, please select needed modules to install and click next, pleas check add shortcut to desktop, and uncheck improve MATLAB,, click next and then click begin install.
 
 ### Units
 Before completing the recommended problems, please read this [note on units](notes/Note_on_Units.pdf).
 
-### Syllabus
-Syllabus: Please read the complete [syllabus](MECH230-Syllabus-Sec2.pdf) carefully.
-
 ### Active Learning
-
 Check out these two excellent videos of Professor Noel Perkins from the Univesity of Michigan at Ann Arbor explaining the active learning techniques he uses to teach dynamics! [Part 1](https://www.youtube.com/watch?v=wHEys-JHeb8), [Part 2](https://www.youtube.com/watch?v=96j69u4v-wE). We will using these techniques ourselves.
 
 ## Agenda
@@ -68,8 +62,8 @@ Check out these two excellent videos of Professor Noel Perkins from the Univesit
 
 ### Lecture 4 - Sep 4
 - Explaining the components of the acceleration vector.
-- Constrained motion.
 - Gravitational force model.
+- Constrained motion.
 
 
 
