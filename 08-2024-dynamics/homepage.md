@@ -12,7 +12,7 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | 2 | Sep 2 | 2. Single Particle: Polar Coordinates | 2/6,3/5 |  | [Set 3](sets/Set03.pdf) |
 | 2 | Sep 4 | 2. Single Particle: Polar Coordinates | 2/6,3/5 | [HW02](HW/HW02.pdf) due Sep 11 | [Set 4](sets/Set04.pdf) |
 | 3 | Sep 9 | 3. Single Particle: Serret-Frenet Triads | 2/5, 2/7, 3/5 |  | [Set 5](sets/Set05.pdf) |
-| 3 | Sep 11 | 3. Single Particle: Serret-Frenet Triads | 2/5, 2/7, 3/5 | [HW03](HW/HW03.pdf) due Sep 18 |  |
+| 3 | Sep 11 | 3. Single Particle: Serret-Frenet Triads | 2/5, 2/7, 3/5 | [HW03](HW/HW03.pdf) due Sep 18 | [Set 6](sets/Set06.pdf) |
 | 4 | Sep 18[^1] | 4. Single Particle: Further Kinetics | 3/5 |  |  |
 | 5 | Sep 23 & 25 | 5. Single Particle: Work and Energy | 3/6-3/7 | |  |
 | | Saturday Sep 28 | Midterm 1 |
@@ -70,9 +70,8 @@ Check out these two excellent videos of Professor Noel Perkins from the Univesit
 - The Serret-Frenet basis.
 
 ### Lecture 6 - Sep 11
-- The Serret-Frenet basis cont.
-- Relative motion.
-- Corotational bases.
+- The Serret-Frenet basis cont. (curvature of a plane curve, the S-F relations, time permitting, example Set 5, 03/043)
+- Spring force with examples from Set 6.
 
 
 
