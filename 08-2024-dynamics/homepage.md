@@ -70,6 +70,7 @@ Check out these two excellent videos of Professor Noel Perkins from the Univesit
 - The Serret-Frenet basis.
 
 ### Lecture 6 - Sep 11
+- See this [video](https://www.youtube.com/watch?v=0ACqRREH180).
 - The Serret-Frenet basis cont. (curvature of a plane curve, the S-F relations, time permitting, example Set 5, 03/043)
 - Spring force with examples from Set 6.
 
