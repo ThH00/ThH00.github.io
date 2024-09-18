@@ -31,6 +31,26 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 
 ## Announcements
 
+### Wednesday September 18,2024
+
+<span style="color:red">
+
+Since we could not meet in class this week, here are a few directives to help get us back on track before Midterm 1.
+
+-	The following formula [sheet](Midterm_1_Formulas.pdf) posted on the class website will be included with your Midterm 1 packet.
+
+-	HW3 which was originally due today Wednesday September 18 will become due on Wednesday September 25.
+
+-	HW4 which was originally due Wednesday September 25 will become due on Wednesday October 2. Although I highly encourage you to complete this homework before the Midterm because it was originally meant as preparation for it as it does not include any coding portion.
+
+-	I will be positing video solutions to some problem set problems today on my Youtube channel. I will provide links to these videos on the class website as they become ready.
+
+-	My office hours tomorrow will be from 1-3:30pm. I will not have office hours in the morning. If you need to come to office hours, but cannot make it in this time interval, please let me know.
+
+-	Feel free to email me today is you have any sticking questions about the lectures or problem sets. I will set some time aside in the late afternoon to answer your emails.
+
+</span>
+
 ### Syllabus
 Syllabus: Please read the complete [syllabus](MECH230-Syllabus-Sec2.pdf) carefully.
 
