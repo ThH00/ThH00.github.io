@@ -31,9 +31,7 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 
 ## Announcements
 
-### Wednesday September 18,2024
-
-<span style="color:red">
+### Announcement on Wednesday September 18,2024
 
 Since we could not meet in class this week, here are a few directives to help get us back on track before Midterm 1.
 
@@ -49,7 +47,6 @@ Since we could not meet in class this week, here are a few directives to help ge
 
 -	Feel free to email me today is you have any sticking questions about the lectures or problem sets. I will set some time aside in the late afternoon to answer your emails.
 
-</span>
 
 ### Syllabus
 Syllabus: Please read the complete [syllabus](MECH230-Syllabus-Sec2.pdf) carefully.
