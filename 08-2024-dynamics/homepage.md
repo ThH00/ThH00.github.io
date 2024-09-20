@@ -40,8 +40,8 @@ The detailed lecture agendas are linked [here](lectures-agenda.md).
 
 - The best way to prepare for the midterm is to review the lecture notes and to the solve the recommended problem sets.
 Also, HW4 will involve a problem set style question rather than a coding-related problem in preparation for the midterm.
- 
- ### Solution Videos
+
+### Solution Videos
 
 I have posted solution videos to a few problem set problems on my Youtube channel. (Lookup Theresa Honein on Youtube. I think that if you subscribe and click the bell icon, you will get automatic notifications when I upload a video.)
 
