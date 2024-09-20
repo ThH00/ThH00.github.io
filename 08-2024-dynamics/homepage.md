@@ -1,6 +1,4 @@
 # MECH 230 Dynamics - Section 2
-
-
 Lecture: MW 2:00-3:15 pm in Bechtel 211\
 Discussion: M 3:30-4:45 pm in Bechtel 211 starting Monday September 2\
 Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
@@ -27,31 +25,32 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | 13 | Nov 18 & 20 | 9. Planar Dynamics of Rigid Bodies | 6/5-6/6 |  |  |
 | 14 | Nov 25 & 27 | 10. Systems of Rigid Bodies | 6/8 |  |  |
 
-[^1]: September 16 is a holiday.
+[^1]: September 16 is a holiday. We also had no class on Semptember 18.
 
 ## Announcements
 
-### Wednesday September 18,2024
+### Lecture Agendas
+The detailed lecture agendas are linked [here](lectures-agenda.md).
 
-<span style="color:red">
+### Midterm 1
 
-### Announcement on Wednesday September 18,2024
-
-Since we could not meet in class this week, here are a few directives to help get us back on track before Midterm 1.
+- The midterm will cover all topics from the beginning of the class until springs and friction (inclusive). These are equivalent to the Dynamics Primer chapters 1-4.
 
 -	The following formula [sheet](Midterm_1_Formulas.pdf) posted on the class website will be included with your Midterm 1 packet.
 
--	HW3 which was originally due today Wednesday September 18 will become due on Wednesday September 25.
+- The best way to prepare for the midterm is to review the lecture notes and to the solve the recommended problem sets.
+Also, HW4 will involve a problem set style question rather than a coding-related problem in preparation for the midterm.
+ 
+ ### Solution Videos
 
--	HW4 which was originally due Wednesday September 25 will become due on Wednesday October 2. Although I highly encourage you to complete this homework before the Midterm because it was originally meant as preparation for it as it does not include any coding portion.
+I have posted solution videos to a few problem set problems on my Youtube channel. (Lookup Theresa Honein on Youtube. I think that if you subscribe and click the bell icon, you will get automatic notifications when I upload a video.)
 
--	I will be positing video solutions to some problem set problems today on my Youtube channel. I will provide links to these videos on the class website as they become ready. ([Problem 02-021](https://youtu.be/wbUBexp8xfc), [Problem 03-004](https://www.youtube.com/watch?v=LAl3ZUiUpus&list=PLT0TfbRhIpQFwEo4f-kzETUIjA1tQqJV9&index=1))
+Here are direct links to the posted videos.
+- [Problem 02-021](https://youtu.be/wbUBexp8xfc)
+- [Problem 02-099](https://www.youtube.com/watch?v=Bt5neJj4Zhc&t=911s)
+- [Problem 03-004](https://www.youtube.com/watch?v=LAl3ZUiUpus&list=PLT0TfbRhIpQFwEo4f-kzETUIjA1tQqJV9&index=1)
 
--	My office hours tomorrow will be from 1-3:30pm. I will not have office hours in the morning. If you need to come to office hours, but cannot make it in this time interval, please let me know.
-
--	Feel free to email me today is you have any sticking questions about the lectures or problem sets. I will set some time aside in the late afternoon to answer your emails.
-
-</span>
+Please solve the problems yourselves. I am more than happy to look at your problem set solutions before or after lecture and during office hours. The numerical final answers to the problems can be found at the back of the MKB textbook.
 
 ### Syllabus
 Syllabus: Please read the complete [syllabus](MECH230-Syllabus-Sec2.pdf) carefully.
@@ -65,38 +64,5 @@ Before completing the recommended problems, please read this [note on units](not
 ### Active Learning
 Check out these two excellent videos of Professor Noel Perkins from the Univesity of Michigan at Ann Arbor explaining the active learning techniques he uses to teach dynamics! [Part 1](https://www.youtube.com/watch?v=wHEys-JHeb8), [Part 2](https://www.youtube.com/watch?v=96j69u4v-wE). We will using these techniques ourselves.
 
-## Agenda
-
-### Lecture 1 - Aug 26
-- Dynamics: An overview.
-- Review of vector geometry (dot product, cross product, magnitude, projections, Cartesian coordinates)
-- Basic particle kinematics concepts (position vector, velocity, acceleration)
-- Rectilinear motion (given acceleration as function of time, speed, or position)
-
-### Lecture 2 - Aug 28
-- Rectilinear motion example, MKB 2/28 from Set 1.
-- Arc-length.
-- Particle kinetics: BoLM and action-reaction.
-- Four steps to problem solving using the balance of linear momentum (BoLM, a.k.a. Newton's second law or Euler's first law).
-- [Example](notes/question_cross_product.pdf): Position, Velocity, Acceleration, and Cross Product
-
-### Lecture 3 - Sep 2
-- Cylindrical polar coordinate system.
-
-### Lecture 4 - Sep 4
-- Explaining the components of the acceleration vector.
-- Gravitational force model.
-- Constrained motion.
-
-### Lecture 5 - Sep 9
-- The Serret-Frenet basis.
-
-### Lecture 6 - Sep 11
-- See this [video](https://www.youtube.com/watch?v=0ACqRREH180).
-- The Serret-Frenet basis cont. (curvature of a plane curve, the S-F relations, time permitting, example Set 5, 03/043)
-
-### Lecture 7 - Sep 18
-- Spring force with examples from Set 6.
-- Friction force with examples from Set 7.
 
 
