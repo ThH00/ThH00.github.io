@@ -33,9 +33,28 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 ### Lecture Agendas
 The detailed lecture agendas are linked [here](lectures-agenda.md).
 
+### Link to submit HW3
+Please submit HW3 via this link https://forms.office.com/r/HRajGvzegN<br>
+If you are not able to complete the homework at this time, just let me know via email.
+
+### Video lectures on Springs and Friction
+I recorded a series of videos to complete the lecture from Monday Septmeber 25. I re-recorded the portion on springs with an example and explained friction.
+Please watch the videos in this order.
+- Explaining the spring force: https://youtu.be/WtTDHW2JUVY
+- Spring Force Examples: https://youtu.be/YiOZregJx9w
+- Problem 2-151: https://youtu.be/Z8Un0esREyw
+- Explaining the friction force: https://youtu.be/_fvCFtpL3c8
+- Particle on curve vs. surface: https://youtu.be/XNdP7Nk850s
+- Problem 03-071: https://youtu.be/RDFfE0tFTnk
+
+You may want to turn YouTube notifications on for my channel to receive notifications when the videos become available. See this link for instructions: https://support.google.com/youtube/answer/3382248?hl=en&co=GENIE.Platform%3DAndroid
+
+
 ### Midterm 1
 
-- The midterm will cover all topics from the beginning of the class until springs and friction (inclusive). These are equivalent to the Dynamics Primer chapters 1-4.
+- **Midterm 1 is postponed until further notice.**
+
+- The midterm will cover all topics from the beginning of the class until springs (inclusive) without friction. These are equivalent to the Dynamics Primer chapters 1-3 and the springs portion of chapter 4.
 
 -	The following formula [sheet](Midterm_1_Formulas.pdf) posted on the class website will be included with your Midterm 1 packet.
 
