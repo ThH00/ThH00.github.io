@@ -14,7 +14,7 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | 4 | Sep 16 & 18[^1] |  |  |  |  |
 | 5 | Sep 23 | 4. Single Particle: Further Kinetics | 3/5 | [HW04](HW/HW04.pdf) due Oct 2 | [Set 7](sets/Set07.pdf) |
 | 5 | Sep 25 | 4. Single Particle: Further Kinetics <br> 5. Single Particle: Work and Energy | 3/5-3/7 |  |  |
-| | Saturday Sep 28 | Midterm 1 |
+| | TBD | Midterm 1 |
 | 6 | Sep 30 & Oct 2 | 6.1-6.2 Linear Momenta and Angular Momenta | 3/9-3/10 |  |  |
 | 7 | Oct 7 & 10 | 6.3-6.5 Collisions of Particles | 3/12 |  |  |
 | 8 | Oct 14 & 16 | 7. Systems of Particles | 4/1-4/5 |  |  |
@@ -34,20 +34,20 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 The detailed lecture agendas are linked [here](lectures-agenda.md).
 
 ### Link to submit HW3
-Please submit HW3 via this link https://forms.office.com/r/HRajGvzegN<br>
+Please submit HW3 via this [link](https://forms.office.com/r/HRajGvzegN).<br>
 If you are not able to complete the homework at this time, just let me know via email.
 
 ### Video lectures on Springs and Friction
 I recorded a series of videos to complete the lecture from Monday Septmeber 25. I re-recorded the portion on springs with an example and explained friction.
 Please watch the videos in this order.
-- Explaining the spring force: https://youtu.be/WtTDHW2JUVY
-- Spring Force Examples: https://youtu.be/YiOZregJx9w
-- Problem 2-151: https://youtu.be/Z8Un0esREyw
-- Explaining the friction force: https://youtu.be/_fvCFtpL3c8
-- Particle on curve vs. surface: https://youtu.be/XNdP7Nk850s
-- Problem 03-071: https://youtu.be/RDFfE0tFTnk
+- [Explaining the spring force](https://youtu.be/WtTDHW2JUVY)
+- [Spring Force Examples](https://youtu.be/YiOZregJx9w)
+- [Problem 2-151](https://youtu.be/Z8Un0esREyw)
+- [Explaining the friction force](https://youtu.be/_fvCFtpL3c8)
+- [Particle on curve vs. surface](https://youtu.be/XNdP7Nk850s)
+- [Problem 03-071](https://youtu.be/RDFfE0tFTnk)
 
-You may want to turn YouTube notifications on for my channel to receive notifications when the videos become available. See this link for instructions: https://support.google.com/youtube/answer/3382248?hl=en&co=GENIE.Platform%3DAndroid
+You may want to turn YouTube notifications on for my channel to receive notifications when the videos become available. See [this link for instructions](https://support.google.com/youtube/answer/3382248?hl=en&co=GENIE.Platform%3DAndroid).
 
 
 ### Midterm 1
