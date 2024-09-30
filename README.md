@@ -24,7 +24,7 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OP6tvueLgnE?si=k1OVn0TH2FxK1pwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Honein, T. E. ; O’Reilly, O. M.: On the Dynamics of Transporting Cylinders. In: Submitted to Nonlinear Dynamics (2024)
+- Honein, T. E. ; O’Reilly, O. M.: On the Dynamics of Transporting Cylinders. In: Accepted to Nonlinear Dynamics (2024)
 
 - Honein, T.E. ; O'Reilly, O. M.: An Adundance of Solutions in the Forced Dynamics of a Stack of Blocks. In: Submitted to Acta Mechanica (2024)
 
