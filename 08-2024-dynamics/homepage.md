@@ -13,7 +13,7 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | 3 | Sep 11 | 3. Single Particle: Serret-Frenet Triads | 2/5, 2/7, 3/5 | [HW03](HW/HW03.pdf) due Sep 25 | [Set 6](sets/Set06.pdf) |
 | 4 | Sep 16 & 18[^1] |  |  |  |  |
 | 5 | Sep 23 | 4. Single Particle: Further Kinetics | 3/5 | [HW04](HW/HW04.pdf) due Oct 2 | [Set 7](sets/Set07.pdf) |
-| 5 | Sep 25 | 4. Single Particle: Further Kinetics <br> 5. Single Particle: Work and Energy | 3/5-3/7 |  |  |
+| 5 | Sep 25 | 4. Single Particle: Further Kinetics <br> 5. Single Particle: Work and Energy | 3/5-3/7 |  | [Set 8](sets/Set08.pdf) |
 | | TBD | Midterm 1 |
 | 6 | Sep 30 & Oct 2 | 6.1-6.2 Linear Momenta and Angular Momenta | 3/9-3/10 |  |  |
 | 7 | Oct 7 & 10 | 6.3-6.5 Collisions of Particles | 3/12 |  |  |
