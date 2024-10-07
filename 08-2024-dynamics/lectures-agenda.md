@@ -49,4 +49,5 @@
 
 ### Lecture 8 - October 3
 - [Work and Energy for a single particle](notes/Power__Work_and_Energy.pdf)
-- Video lecture to be posted.
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241007_133419-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+- [Tablet Notes](notes/Lecture-%20Work%20&%20Energy.pdf)
