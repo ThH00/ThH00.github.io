@@ -12,12 +12,12 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | 3 | Sep 9 | 3. Single Particle: Serret-Frenet Triads | 2/5, 2/7, 3/5 |  | [Set 5](sets/Set05.pdf) |
 | 3 | Sep 11 | 3. Single Particle: Serret-Frenet Triads | 2/5, 2/7, 3/5 | [HW03](HW/HW03.pdf) due Sep 25 | [Set 6](sets/Set06.pdf) |
 | 4 | Sep 16 & 18[^1] |  |  |  |  |
-| 5 | Sep 23 | 4. Single Particle: Further Kinetics | 3/5 | [HW04](HW/HW04.pdf) due Oct 2 | [Set 7](sets/Set07.pdf) |
-| 5 | Sep 25 | 4. Single Particle: Further Kinetics <br> 5. Single Particle: Work and Energy | 3/5-3/7 |  | [Set 8](sets/Set08.pdf) |
+| 5 | Sep 23 | 4. Single Particle: Further Kinetics | 3/5 | [HW04](HW/HW04.pdf) due Oct 9 | [Set 7](sets/Set07.pdf) |
+| 7 | Oct 7 | 5. Single Particle: Work and Energy | 3/5-3/7 |  | [Set 8](sets/Set08.pdf) |
 | | TBD | Midterm 1 |
-| 6 | Sep 30 & Oct 2 | 6.1-6.2 Linear Momenta and Angular Momenta | 3/9-3/10 |  |  |
-| 7 | Oct 7 & 10 | 6.3-6.5 Collisions of Particles | 3/12 |  |  |
-| 8 | Oct 14 & 16 | 7. Systems of Particles | 4/1-4/5 |  |  |
+| 7 | Oct 9 | 6.1-6.2 Linear Momenta and Angular Momenta | 3/9-3/10 |  |  |
+| 8 | Oct 14 | 6.3-6.5 Collisions of Particles | 3/12 |  |  |
+| 8 | Oct 16 | 7. Systems of Particles | 4/1-4/5 |  |  |
 | 9 | Oct 21 & 23 | 8. Kinematics of Rigid Bodies | 5/1-5/4 |  |  |
 | 10 | Oct 28 & 30 | 8. Kinematics of Rigid Bodies | 5/5-5/7 |  |  |
 | | Saturday Nov 2 | Midterm 2
@@ -33,8 +33,8 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 ### Lecture Agendas
 The detailed lecture agendas are linked [here](lectures-agenda.md).
 
-### Link to submit HW3
-Please submit HW3 via this [link](https://forms.office.com/r/HRajGvzegN).<br>
+### Links to submit HW3 and HW4
+Please submit HW3 via this [link](https://forms.office.com/r/HRajGvzegN) and HW4 via this [link](https://forms.office.com/r/5phCu6BuVb).<br>
 If you are not able to complete the homework at this time, just let me know via email.
 
 ### Video lectures on Springs and Friction

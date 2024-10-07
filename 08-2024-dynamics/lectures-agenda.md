@@ -34,5 +34,19 @@
 ### September 18 - No class
 
 ### Lecture 7 - Sep 23
-- Spring force with examples from Set 6.
-- Friction force with examples from Set 7.
+- [Explaining the spring force](https://youtu.be/WtTDHW2JUVY)
+- [Spring Force Examples](https://youtu.be/YiOZregJx9w)
+- [Problem 2-151](https://youtu.be/Z8Un0esREyw)
+- [Explaining the friction force](https://youtu.be/_fvCFtpL3c8)
+- [Particle on curve vs. surface](https://youtu.be/XNdP7Nk850s)
+- [Problem 03-071](https://youtu.be/RDFfE0tFTnk)
+
+### September 25 - No class
+
+### September 30 - No class
+
+### October 2 - No class
+
+### Lecture 8 - October 3
+- [Work and Energy for a single particle](notes/Power__Work_and_Energy.pdf)
+- Video lecture to be posted.
