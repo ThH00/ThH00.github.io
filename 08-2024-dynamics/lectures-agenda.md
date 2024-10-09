@@ -47,7 +47,11 @@
 
 ### October 2 - No class
 
-### Lecture 8 - October 3
+### Lecture 8 - October 7
 - [Work and Energy for a single particle](notes/Power__Work_and_Energy.pdf)
 - [Lecture recording and transcript](https://mailaub.sharepoint.com/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241007_133419-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
 - [Tablet Notes](notes/Lecture-%20Work%20&%20Energy.pdf)
+
+### Lecture 9 - October 9
+- [Linear Momentum, Angular Momentum, and their conservations](notes/Momenta_and_Impulses.pdf)
+- [Kepler's laws: orbital mechanics](https://www.youtube.com/watch?v=pdst6HQkdrc)
