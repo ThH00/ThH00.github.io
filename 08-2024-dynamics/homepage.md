@@ -65,6 +65,10 @@ Please solve the problems yourselves. I am more than happy to look at your probl
 
 You may want to turn YouTube notifications on for my channel to receive notifications when the videos become available. See [this link for instructions](https://support.google.com/youtube/answer/3382248?hl=en&co=GENIE.Platform%3DAndroid).You may want to turn YouTube notifications on for my channel to receive notifications when the videos become available. See [this link for instructions](https://support.google.com/youtube/answer/3382248?hl=en&co=GENIE.Platform%3DAndroid).
 
+### Some Notes
+- Orbital Mechanics (in the making)
+- Conservative Forces (in the making)
+
 ### Syllabus
 Syllabus: Please read the complete [syllabus](MECH230-Syllabus-Sec2.pdf) carefully.
 
