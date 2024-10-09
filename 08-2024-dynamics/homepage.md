@@ -37,18 +37,6 @@ The detailed lecture agendas are linked [here](lectures-agenda.md).
 Please submit HW3 via this [link](https://forms.office.com/r/HRajGvzegN) and HW4 via this [link](https://forms.office.com/r/5phCu6BuVb).<br>
 If you are not able to complete the homework at this time, just let me know via email.
 
-### Video lectures on Springs and Friction
-I recorded a series of videos to complete the lecture from Monday Septmeber 25. I re-recorded the portion on springs with an example and explained friction.
-Please watch the videos in this order.
-- [Explaining the spring force](https://youtu.be/WtTDHW2JUVY)
-- [Spring Force Examples](https://youtu.be/YiOZregJx9w)
-- [Problem 2-151](https://youtu.be/Z8Un0esREyw)
-- [Explaining the friction force](https://youtu.be/_fvCFtpL3c8)
-- [Particle on curve vs. surface](https://youtu.be/XNdP7Nk850s)
-- [Problem 03-071](https://youtu.be/RDFfE0tFTnk)
-
-You may want to turn YouTube notifications on for my channel to receive notifications when the videos become available. See [this link for instructions](https://support.google.com/youtube/answer/3382248?hl=en&co=GENIE.Platform%3DAndroid).
-
 
 ### Midterm 1
 
@@ -74,6 +62,8 @@ Here are direct links to the posted videos.
 - [Problem 08-004](https://youtu.be/16BBDDS5nMg)
 
 Please solve the problems yourselves. I am more than happy to look at your problem set solutions before or after lecture and during office hours. The numerical final answers to the problems can be found at the back of the MKB textbook.
+
+You may want to turn YouTube notifications on for my channel to receive notifications when the videos become available. See [this link for instructions](https://support.google.com/youtube/answer/3382248?hl=en&co=GENIE.Platform%3DAndroid).You may want to turn YouTube notifications on for my channel to receive notifications when the videos become available. See [this link for instructions](https://support.google.com/youtube/answer/3382248?hl=en&co=GENIE.Platform%3DAndroid).
 
 ### Syllabus
 Syllabus: Please read the complete [syllabus](MECH230-Syllabus-Sec2.pdf) carefully.
