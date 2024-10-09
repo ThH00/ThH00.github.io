@@ -56,3 +56,5 @@
 ### Lecture 9 - October 9
 - [Linear Momentum, Angular Momentum, and their conservations](notes/Momenta_and_Impulses.pdf)
 - [Kepler's laws: orbital mechanics](https://www.youtube.com/watch?v=pdst6HQkdrc)
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/sites/mech230-fall2024/_layouts/15/stream.aspx?id=%2Fsites%2Fmech230%2Dfall2024%2FShared%20Documents%2FGeneral%2FRecordings%2FMECH230%20Lectures%2D20241009%5F121610%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee1d4bc2a%2D6924%2D4201%2D8942%2D9b8b09996c9d)
+- [Tablet Notes](notes/Lecture%20-%20Linear%20and%20Angular%20Momenta.pdf)
