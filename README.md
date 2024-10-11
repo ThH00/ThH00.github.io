@@ -1,4 +1,3 @@
----
 [PUBLICATIONS](publications)      [MECH230](08-2024-dynamics)      SOME NOTES
 ---
 
