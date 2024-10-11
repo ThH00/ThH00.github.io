@@ -1,6 +1,7 @@
-### [Go Back to Class Homepage here.](homepage.md)
+[MECH230 Home](homepage.md)        [Agenda](lectures-agenda.md)        [Annoucements](announcements.md)
+---
 
-## Agenda
+## Lecture Agendas
 
 ### Lecture 1 - Aug 26
 - Dynamics: An overview.

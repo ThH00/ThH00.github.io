@@ -1,4 +1,4 @@
-[HOME](README)      [MECH230](08-2024-dynamics)      SOME NOTES
+[HOME](README)        [RESEARCH](publications)        [TEACHING](08-2024-dynamics/homepage.md)
 ---
 
 # Publications
@@ -24,4 +24,9 @@
 # In the Press
 - Article in Berkeley Engineer magazine, Summer 2024:  [Ready to roll](https://engineering.berkeley.edu/news/2024/05/ready-to-roll/)
 - Article in Berkeley Engineering published on February 12, 2024: [Researchers explore the phenomenon of holonomy](https://engineering.berkeley.edu/news/2024/02/researchers-explore-the-phenomenon-of-holonomy/) 
+
+
+# Some Notes
+
+- [On the relationship between holonomy and nonintegrable constraints](notes/Holonomy_and_Nonintegrable_Constraints.pdf)
 
