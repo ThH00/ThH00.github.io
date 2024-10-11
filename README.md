@@ -1,10 +1,14 @@
+---
+[PUBLICATIONS](publications)      [MECH230](08-2024-dynamics)      SOME NOTES
+---
+
+# Biography
+
 Assistant Professor at American University of Beirut<br>
 Department of Mechanical Engineering<br>
 
 Email: theresa.honein at aub.edu.lb<br>
 Office: Bechtel 532
-
-# Biography
 
 <img src="headshot31072024.jpg" width="200">
 
