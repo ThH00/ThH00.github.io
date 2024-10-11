@@ -57,7 +57,7 @@ Here are direct links to the posted videos.
 - [Problem 02-021](https://youtu.be/wbUBexp8xfc)
 - [Problem 02-099](https://www.youtube.com/watch?v=Bt5neJj4Zhc&t=911s)
 - [Problem 03-004](https://www.youtube.com/watch?v=LAl3ZUiUpus&list=PLT0TfbRhIpQFwEo4f-kzETUIjA1tQqJV9&index=1)
-- [Problem 2-151](https://youtu.be/Z8Un0esREyw)
+- [Problem 02-151](https://youtu.be/Z8Un0esREyw)
 - [Problem 03-071](https://youtu.be/RDFfE0tFTnk)
 - [Problem 08-004](https://youtu.be/16BBDDS5nMg)
 
