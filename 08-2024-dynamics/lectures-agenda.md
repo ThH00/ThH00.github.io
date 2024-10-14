@@ -59,3 +59,11 @@
 - [Kepler's laws: orbital mechanics](https://www.youtube.com/watch?v=pdst6HQkdrc)
 - [Lecture recording and transcript](https://mailaub.sharepoint.com/sites/mech230-fall2024/_layouts/15/stream.aspx?id=%2Fsites%2Fmech230%2Dfall2024%2FShared%20Documents%2FGeneral%2FRecordings%2FMECH230%20Lectures%2D20241009%5F121610%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee1d4bc2a%2D6924%2D4201%2D8942%2D9b8b09996c9d)
 - [Tablet Notes](notes/Lecture%20-%20Linear%20and%20Angular%20Momenta.pdf)
+
+### Lecture 10 - October 14
+- Collisions
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241014_132411-Meeting%20Recording.mp4?csf=1&web=1&e=FOEKAt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [Tablet Notes](notes/Lecture-collisions.pdf)
+
+### Lecture 11 - October 16
+- Systems of Particles.
