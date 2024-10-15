@@ -4,7 +4,7 @@
 ## Announcements
 
 ### Links to submit HW3 and HW4
-Please submit HW3 via this [link](https://forms.office.com/r/HRajGvzegN) and HW4 via this [link](https://forms.office.com/r/5phCu6BuVb).<br>
+Please submit HW3 via this [link](https://forms.office.com/r/HRajGvzegN), HW4 via this [link](https://forms.office.com/r/5phCu6BuVb) and HW5 via this [link](https://forms.office.com/Pages/ResponsePage.aspx?id=Glu6x7ZB6UOhIG_2VK2hN2LmkK4jd4FBkXd8AzF-kd1UM1EwTFhRQ1dUWUU3OEgyTVA3MFBVQVIzSyQlQCN0PWcu).<br>
 If you are not able to complete the homework at this time, just let me know via email.
 
 
