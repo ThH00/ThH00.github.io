@@ -67,3 +67,9 @@
 
 ### Lecture 11 - October 16
 - Systems of Particles.
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241016_135357-Meeting%20Recording.mp4?csf=1&web=1&e=fBikWM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [Table Notes](notes/Lecture-system%20of%20particles%20.pdf)
+- Note: You are not able to solve all Set 11 problems yet.
+
+### Lecture 12 - October 21
+- Systems of Particles, cont.
