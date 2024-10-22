@@ -73,3 +73,8 @@
 
 ### Lecture 12 - October 21
 - Systems of Particles, cont.
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/sites/mech230-fall2024/_layouts/15/stream.aspx?id=%2Fsites%2Fmech230%2Dfall2024%2FShared%20Documents%2FGeneral%2FRecordings%2FMECH230%20Lectures%2D20241021%5F134757%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed10891eb%2D2f4d%2D4653%2D9517%2De508fb35bae1)
+- Midterm 1 review exercises
+
+### Lecture 13 - October 23
+- Rigid body kinematics: relating the velocities and accelerations of material points on the same rigid body.
