@@ -30,6 +30,7 @@ Here are direct links to the posted videos.
 - [Problem 02-151](https://youtu.be/Z8Un0esREyw)
 - [Problem 03-071](https://youtu.be/RDFfE0tFTnk)
 - [Problem 08-004](https://youtu.be/16BBDDS5nMg)
+- [Problem 08-004 redo](https://youtu.be/YE9N2f2qTqg)
 
 Please solve the problems yourselves. I am more than happy to look at your problem set solutions before or after lecture and during office hours. The numerical final answers to the problems can be found at the back of the MKB textbook.
 
