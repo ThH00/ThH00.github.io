@@ -17,13 +17,14 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | 4 | Sep 16 & 18 | No Class |  |  |  |
 | 5 | Sep 23 | 4. Single Particle: Further Kinetics | 3/5 | [HW04](HW/HW04.pdf) due Oct 9 | [Set 7](sets/Set07.pdf) |
 | 5 | Sep 25 | No Class |  |  |  |
-| | TBD | Midterm 1 |
 | 6 | Sep 30 & Oct 2 | No Class |  |  |  |
 | 7 | Oct 7 | 5. Single Particle: Work and Energy | 3/5-3/7 |  | [Set 8](sets/Set08.pdf) |
 | 7 | Oct 9 | 6.1-6.2 Linear Momenta and Angular Momenta | 3/9-3/10 | [HW05](HW/HW05.pdf) due Oct 16 | [Set 9](sets/Set09.pdf) |
 | 8 | Oct 14 | 6.3-6.5 Collisions of Particles | 3/12 |  | [Set 10](sets/Set10.pdf) |
-| 8 | Oct 16 | 7. Systems of Particles | 4/1-4/5 | [HW06](HW/HW06.pdf) | [Set 11](sets/Set11.pdf) |
-| 9 | Oct 21 & 23 | 8. Kinematics of Rigid Bodies | 5/1-5/4 |  |  |
+| 8 | Oct 16 | 7. Systems of Particles | 4/1-4/5 | [HW06](HW/HW06.pdf) due Oct 30 **pending an addition** | [Set 11](sets/Set11.pdf) |
+| 9 | Oct 21 | 7. Systems of Particles cont. |  |  |  |
+| 9 | Oct 23 | 8. Kinematics of Rigid Bodies | 5/1-5/4 |  |  |
+| | Oct 26 | Midterm 1 | | 8:15-10:15 am | 
 | 10 | Oct 28 & 30 | 8. Kinematics of Rigid Bodies | 5/5-5/7 |  |  |
 | | Saturday Nov 2 | Midterm 2
 | 11 | Nov 4 & 6 | 9. Planar Dynamics of Rigid Bodies | 6/1-6/3, Apps A & B |  |  |
