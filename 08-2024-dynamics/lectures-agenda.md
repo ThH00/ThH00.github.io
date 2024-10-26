@@ -78,3 +78,7 @@
 
 ### Lecture 13 - October 23
 - Rigid body kinematics: relating the velocities and accelerations of material points on the same rigid body.
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241023_121348-Meeting%20Recording.mp4?csf=1&web=1&e=i6OPmG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+### Lecture 14 - October 28
+- Regid body kinematics: relating the velocities and accelerations of one material point on a rigid body and another point moving with respect to the rigid body
