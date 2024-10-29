@@ -82,6 +82,7 @@
 
 ### Lecture 14 - Monday October 28
 - Problems from Sets 6-11.
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241028_144206-Meeting%20Recording.mp4?csf=1&web=1&e=Dl9w54&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Lecture 15 - Wednesday October 30
 - [Coriolis Effect - National Geographic Youtube video](https://www.youtube.com/watch?v=mPsLanVS1Q8&t=130s)
