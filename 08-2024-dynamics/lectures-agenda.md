@@ -85,11 +85,15 @@
 - [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241028_144206-Meeting%20Recording.mp4?csf=1&web=1&e=Dl9w54&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Lecture 15 - Wednesday October 30
+- [Lecture recording and transcript](
+6 1 25.1327 0.3 400 200)
+- HW5 and HW6 correction
+
+
+### Lecture 16 - Monday November 4
 - [Coriolis Effect - National Geographic Youtube video](https://www.youtube.com/watch?v=mPsLanVS1Q8&t=130s)
 - Rigid body kinematics: Particles in noninertial frames. (Relating the velocities and accelerations of one material point on a rigid body and another point moving with respect to the rigid body.)
 - Examples.
-
-### Lecture 16 - Monday November 4
 - The instantaneous center of rotation.
 - More examples: Rolling and Sliding
 
