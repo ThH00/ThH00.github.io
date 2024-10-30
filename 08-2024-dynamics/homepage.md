@@ -21,7 +21,7 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | 7 | Oct 7 | 5. Single Particle: Work and Energy | 3/5-3/7 |  | [Set 8](sets/Set08.pdf) |
 | 7 | Oct 9 | 6.1-6.2 Linear Momenta and Angular Momenta | 3/9-3/10 | [HW05](HW/HW05.pdf) due Oct 16 | [Set 9](sets/Set09.pdf) |
 | 8 | Oct 14 | 6.3-6.5 Collisions of Particles | 3/12 |  | [Set 10](sets/Set10.pdf) |
-| 8 | Oct 16 | 7. Systems of Particles | 4/1-4/5 | [HW06](HW/HW06.pdf) due Oct 30 **pending an addition** | [Set 11](sets/Set11.pdf) |
+| 8 | Oct 16 | 7. Systems of Particles | 4/1-4/5 | [HW06](HW/HW06.pdf) due Oct 30 | [Set 11](sets/Set11.pdf) |
 | 9 | Oct 21 | 7. Systems of Particles cont. |  |  |  |
 | 9 | Oct 23 | 8. Kinematics of Rigid Bodies | 5/1-5/4 |  | [Set 12](sets/Set12.pdf) |
 | | Oct 26 | Midterm 1 8:15-10:15 am | | | 
