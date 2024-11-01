@@ -3,21 +3,7 @@
 
 ## Announcements
 
-### Links to submit HW3 and HW4
-Please submit HW3 via this [link](https://forms.office.com/r/HRajGvzegN), HW4 via this [link](https://forms.office.com/r/5phCu6BuVb) and HW5 via this [link](https://forms.office.com/Pages/ResponsePage.aspx?id=Glu6x7ZB6UOhIG_2VK2hN2LmkK4jd4FBkXd8AzF-kd1UM1EwTFhRQ1dUWUU3OEgyTVA3MFBVQVIzSyQlQCN0PWcu).<br>
-If you are not able to complete the homework at this time, just let me know via email.
-
-
-### Midterm 1
-
-- **Midterm 1 is postponed until further notice.**
-
-- The midterm will cover all topics from the beginning of the class until springs (inclusive) without friction. These are equivalent to the Dynamics Primer chapters 1-3 and the springs portion of chapter 4.
-
--	The following formula [sheet](Midterm_1_Formulas.pdf) posted on the class website will be included with your Midterm 1 packet.
-
-- The best way to prepare for the midterm is to review the lecture notes and to the solve the recommended problem sets.
-Also, HW4 will involve a problem set style question rather than a coding-related problem in preparation for the midterm.
+### [Midterm 1 Solutions](Midterm_1___Solutions___Online_Version.pdf)
 
 ### Solution Videos
 
