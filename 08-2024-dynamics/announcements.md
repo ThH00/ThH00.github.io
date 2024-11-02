@@ -24,7 +24,8 @@ You may want to turn YouTube notifications on for my channel to receive notifica
 
 ### Some Notes
 - Orbital Mechanics (in the making)
-- Conservative Forces (in the making)
+- Conservative Forces: Multivariable calculus, gradients, and potental function (in the making)
+- Solving Differential Equations: The simple harmonic oscillator (in the making)
 
 ### Syllabus
 Syllabus: Please read the complete [syllabus](MECH230-Syllabus-Sec2.pdf) carefully.
