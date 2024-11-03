@@ -85,10 +85,10 @@
 - [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241028_144206-Meeting%20Recording.mp4?csf=1&web=1&e=Dl9w54&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Lecture 15 - Wednesday October 30
-- [Lecture recording and transcript](
-6 1 25.1327 0.3 400 200)
 - HW5 and HW6 correction
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241030_131606-Meeting%20Recording.mp4?csf=1&web=1&e=m2Wfs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+#
 
 ### Lecture 16 - Monday November 4
 - [Coriolis Effect - National Geographic Youtube video](https://www.youtube.com/watch?v=mPsLanVS1Q8&t=130s)
@@ -96,7 +96,6 @@
 - Examples.
 - The instantaneous center of rotation.
 - More examples: Rolling and Sliding
-
 
 ### Lecture 17 - Wednesday November 6
 - Rigid body momemta
@@ -114,15 +113,31 @@
 - Examples
 
 ### Lecture 20 - Monday November 18
+- Midterm 2 Review
+
+### Lecture 21 - Wednesday November 20
+- Midterm 2 during lecture time focusing on friction - rigid body kinematic.
+
+### Lecture 22 - Monday November 25
 - Rigid Body Kinetics: The work-energy theorem
 - Rolling and sliding rigid bodies.
 - Impact Problems with center of percussion.
 
-### Lecture 21 - Wednesday November 20
+### Lecture 23 - Wednesday November 27
 - Examples
 
-### Lecture 25 - Monday November 25
+### Lecture 24 - Monday December 2
 - Dynamics of systems of rigid bodies
 
-### Lecture 26 - Wednesday November 27
+### Lecture 25 - Wednesday December 4
 - Dynamics of systems of rigid bodies, cont.
+
+### Lecture 26 - Monday December 9
+- Final exam review
+
+### Lecture 27 - Wednesday December 11
+- Final exam review
+
+### Reading Period: Dec 13-15, 2024
+
+### Final Exam Period: December 16-22, 2024
