@@ -88,16 +88,19 @@
 - HW5 and HW6 correction
 - [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241030_131606-Meeting%20Recording.mp4?csf=1&web=1&e=m2Wfs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-#
 
 ### Lecture 16 - Monday November 4
+- Exercises on velocity and acceleration analysis of two material points on a rigid body.
+- The instantaneous center of rotation and examples.
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241104_143718-Meeting%20Recording.mp4?csf=1&web=1&e=pqYnLB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+
+### Lecture 17 - Wednesday November 6
 - [Coriolis Effect - National Geographic Youtube video](https://www.youtube.com/watch?v=mPsLanVS1Q8&t=130s)
 - Rigid body kinematics: Particles in noninertial frames. (Relating the velocities and accelerations of one material point on a rigid body and another point moving with respect to the rigid body.)
 - Examples.
-- The instantaneous center of rotation.
 - More examples: Rolling and Sliding
-
-### Lecture 17 - Wednesday November 6
 - Rigid body momemta
 - Mass moments of inertia
 - Parallel axis theorem
