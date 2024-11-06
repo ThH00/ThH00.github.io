@@ -101,12 +101,12 @@
 - Rigid body kinematics: Particles in noninertial frames. (Relating the velocities and accelerations of one material point on a rigid body and another point moving with respect to the rigid body.)
 - Examples.
 - More examples: Rolling and Sliding
+
+### Lecture 18 - Monday November 11
 - Rigid body momemta
 - Mass moments of inertia
 - Parallel axis theorem
 - Radius of gyration
-
-### Lecture 18 - Monday November 11
 - Rigid Body Kinetics: The balance laws
 - Purely translational motion of a rigid body
 
