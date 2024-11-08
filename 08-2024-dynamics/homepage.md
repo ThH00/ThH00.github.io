@@ -26,7 +26,7 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | 9 | Oct 23 | 8. Kinematics of Rigid Bodies | 5/1-5/4 |  | [Set 12](sets/Set12.pdf) |
 | | Oct 26 | Midterm 1 8:15-10:15 am | | | 
 | 10 | Oct 28 | 8. Kinematics of Rigid Bodies | 5/5-5/7 | | [Set 13](sets/Set13.pdf) |
-| 10 | Oct 30 | 8. Kinematics of Rigid Bodies | 5/5-5/7 | | [Set 14](sets/Set14.pdf) |
+| 10 | Oct 30 | 8. Kinematics of Rigid Bodies | 5/5-5/7 | [HW07](HW/HW07.pdf) due Nov 13 | [Set 14](sets/Set14.pdf) |
 | | Nov 20 | Midterm 2
 | 11 | Nov 4 & 6 | 9. Planar Dynamics of Rigid Bodies | 6/1-6/3, Apps A & B |  |  |
 | 12 | Nov 11 & 13 | 9. Planar Dynamics of Rigid Bodies | 6/4 |  |  |

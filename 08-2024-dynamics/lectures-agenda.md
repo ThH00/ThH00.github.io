@@ -107,10 +107,10 @@
 - Mass moments of inertia
 - Parallel axis theorem
 - Radius of gyration
-- Rigid Body Kinetics: The balance laws
-- Purely translational motion of a rigid body
 
 ### Lecture 19 - Wednesday November 13
+- Rigid Body Kinetics: The balance laws
+- Purely translational motion of a rigid body
 - A rigid body with a fixed point.
 - General plane motion.
 - Examples
