@@ -100,15 +100,16 @@
 - [Coriolis Effect - National Geographic Youtube video](https://www.youtube.com/watch?v=mPsLanVS1Q8&t=130s)
 - Rigid body kinematics: Particles in noninertial frames. (Relating the velocities and accelerations of one material point on a rigid body and another point moving with respect to the rigid body.)
 - Examples.
-- More examples: Rolling and Sliding
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241106_132049-Meeting%20Recording.mp4?csf=1&web=1&e=vLLsc1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Lecture 18 - Monday November 11
+- More examples: Rolling and Sliding
+
+### Lecture 19 - Wednesday November 13
 - Rigid body momemta
 - Mass moments of inertia
 - Parallel axis theorem
 - Radius of gyration
-
-### Lecture 19 - Wednesday November 13
 - Rigid Body Kinetics: The balance laws
 - Purely translational motion of a rigid body
 - A rigid body with a fixed point.
