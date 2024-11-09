@@ -33,10 +33,10 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | 12 | Nov 11 | 9. Planar Dynamics of Rigid Bodies | 6/4 |  | Set 16 |
 | 13 | Nov 18 | 9. Planar Dynamics of Rigid Bodies | 6/5-6/6 |  | Set 17 |
 | 13 | Nov 20 | 9. Planar Dynamics of Rigid Bodies | 6/5-6/6 |  | Set 18 |
-| 14 | Nov 25 | Midterm 2 Review | 6/8 |  |  |
-| 14 | Nov 27 | Midterm 2 | 6/8 |  |  |
-| 15 | Dec 2 | Work-Energy | 6/8 |  | Set 19 |
-| 15 | Dec 4 |  | 6/8 |  |  |
+| 14 | Nov 25 | Midterm 2 Review |  |  |  |
+| 14 | Nov 27 | Midterm 2 |  |  |  |
+| 15 | Dec 2 | Work-Energy | 6/7 |  | Set 19 |
+| 15 | Dec 4 |  | 6/7 |  |  |
 | 16 | Dec 9 | Impulse Momentum | 6/8 |  | Set 20 |
 | 16 | Dec 11 |  | 6/8 |  |  |
 | | TBD | Final Exam | Focused on Rigid Bodies | | |
