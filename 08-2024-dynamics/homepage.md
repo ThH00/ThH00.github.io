@@ -29,7 +29,7 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | 10 | Oct 30 | Review |  |  |  |
 | 11 | Nov 4 | 8. Kinematics of Rigid Bodies | 5/5-5/7 | | [Set 13](sets/Set13.pdf) |
 | 11 | Nov 6 | 8. Kinematics of Rigid Bodies | 5/5-5/7 | [HW07](HW/HW07.pdf) due Nov 13 | [Set 14](sets/Set14.pdf) |
-| 12 | Nov 11 | 8. Kinematics of Rigid Bodies <br> 9. Planar Dynamics of Rigid Bodies| 5/5-5/7 <br> 6/1-6/3 , Apps A & B|  | Set 15 |
+| 12 | Nov 11 | 8. Kinematics of Rigid Bodies <br> 9. Planar Dynamics of Rigid Bodies| 5/5-5/7 <br> 6/1-6/3 , Apps A & B|  | [Set 15](sets/Set15.pdf) |
 | 12 | Nov 11 | 9. Planar Dynamics of Rigid Bodies | 6/4 |  | Set 16 |
 | 13 | Nov 18 | 9. Planar Dynamics of Rigid Bodies | 6/5-6/6 |  | Set 17 |
 | 13 | Nov 20 | 9. Planar Dynamics of Rigid Bodies | 6/5-6/6 |  | Set 18 |
@@ -40,3 +40,5 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | 16 | Dec 9 | Impulse Momentum | 6/8 |  | Set 20 |
 | 16 | Dec 11 |  | 6/8 |  |  |
 | | TBD | Final Exam | Focused on Rigid Bodies | | |
+
+[MKB Properties of Bodies](solids-mkb.pdf)
