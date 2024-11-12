@@ -104,10 +104,11 @@
 
 ### Lecture 18 - Monday November 11
 - More examples: Rolling and Sliding
-
-### Lecture 19 - Wednesday November 13
 - Rigid body momemta
 - Mass moments of inertia
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/sites/mech230-fall2024/_layouts/15/stream.aspx?id=%2Fsites%2Fmech230%2Dfall2024%2FShared%20Documents%2FGeneral%2FRecordings%2FMECH230%20Lectures%2D20241111%5F144245%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E09ec0591%2Db77a%2D4ab9%2D8ed8%2D7871b4ee80c4)
+
+### Lecture 19 - Wednesday November 13
 - Parallel axis theorem
 - Radius of gyration
 - Rigid Body Kinetics: The balance laws
