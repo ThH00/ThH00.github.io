@@ -28,6 +28,7 @@ You may want to turn YouTube notifications on for my channel to receive notifica
 - Solving Differential Equations: The simple harmonic oscillator (in the making)
 - Consolidated set of notes.
 - Video explaining the axis of rotation.
+- On the coin tracing another coin problem.
 
 ### Syllabus
 Syllabus: Please read the complete [syllabus](MECH230-Syllabus-Sec2.pdf) carefully.
