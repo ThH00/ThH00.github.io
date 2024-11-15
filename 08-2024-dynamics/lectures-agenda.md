@@ -114,29 +114,25 @@
 - Radius of gyration
 - Rigid Body Kinetics: The balance laws
 - Purely translational motion of a rigid body
-- A rigid body with a fixed point.
-- General plane motion.
-- Examples
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241113_131622-Meeting%20Recording.mp4?csf=1&web=1&e=YDR9YU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Lecture 20 - Monday November 18
-- Midterm 2 Review
+- Fixed point rotation
 
 ### Lecture 21 - Wednesday November 20
-- Midterm 2 during lecture time focusing on friction - rigid body kinematic.
+- General plane motion
 
 ### Lecture 22 - Monday November 25
-- Rigid Body Kinetics: The work-energy theorem
-- Rolling and sliding rigid bodies.
-- Impact Problems with center of percussion.
+- Midterm 2 Review
 
 ### Lecture 23 - Wednesday November 27
-- Examples
+- Midterm 2 during lecture time
 
 ### Lecture 24 - Monday December 2
-- Dynamics of systems of rigid bodies
+- Rigid Body Kinetics: The work-energy theorem
 
 ### Lecture 25 - Wednesday December 4
-- Dynamics of systems of rigid bodies, cont.
+- Rigid Body Kinetics: Impulse momentum
 
 ### Lecture 26 - Monday December 9
 - Final exam review
