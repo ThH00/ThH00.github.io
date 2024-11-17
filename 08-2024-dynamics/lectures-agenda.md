@@ -104,12 +104,14 @@
 - [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241106_132049-Meeting%20Recording.mp4?csf=1&web=1&e=vLLsc1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Lecture 18 - Monday November 11
+- [Notes: Center of Mass, Linear Momentum, Angular Momentum](notes/MassCenter_LinearMomentum_AngularMomentum_Inertia.pdf)
 - More examples: Rolling and Sliding
 - Rigid body momemta
 - Mass moments of inertia
 - [Lecture recording and transcript](https://mailaub.sharepoint.com/sites/mech230-fall2024/_layouts/15/stream.aspx?id=%2Fsites%2Fmech230%2Dfall2024%2FShared%20Documents%2FGeneral%2FRecordings%2FMECH230%20Lectures%2D20241111%5F144245%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E09ec0591%2Db77a%2D4ab9%2D8ed8%2D7871b4ee80c4)
 
 ### Lecture 19 - Wednesday November 13
+- [Notes: RB Kinetics](notes/Kinetics_of_Rigid_Bodies.pdf)
 - Parallel axis theorem
 - Radius of gyration
 - Rigid Body Kinetics: The balance laws
