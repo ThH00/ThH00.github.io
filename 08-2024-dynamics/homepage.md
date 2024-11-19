@@ -39,6 +39,6 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | 15 | Dec 4 |  | 6/7 | HW10 due on Dec 11 |  |
 | 16 | Dec 9 | Impulse Momentum | 6/8 |  | Set 20 |
 | 16 | Dec 11 |  | 6/8 |  |  |
-| | TBD | Final Exam | Focused on Rigid Bodies | | |
+| | Dec 19 | Final Exam | | 3:30-5pm in NICELY 500| Focused on Rigid Bodies |
 
 [MKB Properties of Bodies](solids-mkb.pdf)
