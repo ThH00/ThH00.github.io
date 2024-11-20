@@ -119,7 +119,10 @@
 - [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241113_131622-Meeting%20Recording.mp4?csf=1&web=1&e=YDR9YU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Lecture 20 - Monday November 18
+- [Notes: RB Kinetics](notes/Kinetics_of_Rigid_Bodies.pdf)
 - Fixed point rotation
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241118_144922-Meeting%20Recording.mp4?csf=1&web=1&e=9aVJ4F&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [Tablet Notes](notes/Lecture%2020.pdf)
 
 ### Lecture 21 - Wednesday November 20
 - General plane motion
