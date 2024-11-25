@@ -3,6 +3,9 @@
 
 ## Announcements
 
+### Midterm 2
+- [Formula Sheet](notes/Midterm_2_Formulas.pdf)
+
 ### [Midterm 1 Solutions](Midterm_1___Solutions___Online_Version.pdf)
 
 ### Solution Videos
