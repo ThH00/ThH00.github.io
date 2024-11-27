@@ -126,12 +126,15 @@
 
 ### Lecture 21 - Wednesday November 20
 - General plane motion
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241120_131836-Meeting%20Recording.mp4?csf=1&web=1&e=SICNtq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Lecture 22 - Monday November 25
 - Midterm 2 Review
+- [Lecture recording and transcript](https://mailaub.sharepoint.com/:v:/r/sites/mech230-fall2024/Shared%20Documents/General/Recordings/MECH230%20Lectures-20241120_131836-Meeting%20Recording.mp4?csf=1&web=1&e=SICNtq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [Tablet Notes](notes/Review%20Midterm%202.pdf)
 
 ### Lecture 23 - Wednesday November 27
-- Midterm 2 during lecture time
+- No Class
 
 ### Lecture 24 - Monday December 2
 - Rigid Body Kinetics: The work-energy theorem
