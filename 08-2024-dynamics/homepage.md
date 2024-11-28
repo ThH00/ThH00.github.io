@@ -34,9 +34,9 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | 13 | Nov 18 | 9. Planar Dynamics of Rigid Bodies | 6/5-6/6 |  | [Set 17](sets/Set17.pdf) |
 | 13 | Nov 20 | 9. Planar Dynamics of Rigid Bodies | 6/5-6/6 | [HW09](hw/HW09.pdf) due on Dec 4 | [Set 18](sets/Set18.pdf) |
 | 14 | Nov 25 | Midterm 2 Review |  |  |  |
-| 14 | Nov 27 | Midterm 2 |  |  |  |
-| 15 | Dec 2 | Work-Energy | 6/7 |  | Set 19 |
-| 15 | Dec 4 |  | 6/7 | HW10 due on Dec 11 |  |
+| 14 | Nov 27 | No Class |  |  |  |
+| 15 | Dec 2 | Midterm 2 <br> RB Kinetics cont. |  |  |  |
+| 15 | Dec 4 | Work-Energy | 6/7 | HW10 due on Dec 11 | Set 19 |
 | 16 | Dec 9 | Impulse Momentum | 6/8 |  | Set 20 |
 | 16 | Dec 11 |  | 6/8 |  |  |
 | | Dec 19 | Final Exam | | 3:30-5pm in NICELY 500| Focused on Rigid Bodies |
