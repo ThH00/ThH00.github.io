@@ -141,6 +141,8 @@
 
 ### Lecture 25 - Wednesday December 4
 - Rigid Body Kinetics: Impulse momentum
+- [Cheetah uses Tail and Conservation of Angular Momentum to Chase Down Gazelle](https://www.youtube.com/watch?v=b81asXPptt8)
+- [Rolling objects by Walter Lewin](https://www.youtube.com/watch?v=M_YCWDXCwZM)
 
 ### Lecture 26 - Monday December 9
 - Final exam review
