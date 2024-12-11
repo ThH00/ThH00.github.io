@@ -3,6 +3,9 @@
 
 ## Announcements
 
+### Final
+- [Formula Sheet](notes/Final_Formulas.pdf)
+
 ### Midterm 2
 - [Formula Sheet](notes/Midterm_2_Formulas.pdf)
 
