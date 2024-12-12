@@ -23,6 +23,10 @@ Here are direct links to the posted videos.
 - [Problem 03-071](https://youtu.be/RDFfE0tFTnk)
 - [Problem 08-004](https://youtu.be/16BBDDS5nMg)
 - [Problem 08-004 redo](https://youtu.be/YE9N2f2qTqg)
+- Problem 06-051 [Part 1](https://youtu.be/iQEG2_D207A) and [Part 2](https://youtu.be/ah63r2FgXTI)
+- Problem 06-070 [Part 1](https://youtu.be/acDAeDBoAg4) and [Part 2](https://youtube.com/shorts/b5tVpf2gdkw?feature=share)
+- Problem 06-118
+- [Problem 06-155](https://youtu.be/0N8tDgnrXNA)
 
 Please solve the problems yourselves. I am more than happy to look at your problem set solutions before or after lecture and during office hours. The numerical final answers to the problems can be found at the back of the MKB textbook.
 
