@@ -3,6 +3,10 @@
 
 ## Announcements
 
+| Semester | Midterm 1 | Solution | Midterm 2 | Solution | Final | Solution |
+| -------- | --------- |--------- | --------- | -------- | ----- | -------- |
+| Fall 2024 | [Exam](exams/F24_M1.pdf) | [Solution](exams/F24_M1_sol.pdf) | [Exam](exams/F24_M2.pdf) | [Solution](exams/F24_M2_sol.pdf) |  |  |
+
 ### Final
 - [Formula Sheet](notes/Final_Formulas.pdf)
 
