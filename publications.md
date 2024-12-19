@@ -22,6 +22,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2sa0vmwJLNk?si=fgue-luSrzh44hj6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # In the Press
+- Mention in  Berkeley Engineering’s 2024 in review, December 2024: [Berkeley Engineering’s 2024 in review: Nine of our most impactful stories](https://engineering.berkeley.edu/news/2024/12/berkeley-engineerings-2024-in-review/)
 - Article in Berkeley Engineer magazine, Summer 2024:  [Ready to roll](https://engineering.berkeley.edu/news/2024/05/ready-to-roll/)
 - Article in Berkeley Engineering published on February 12, 2024: [Researchers explore the phenomenon of holonomy](https://engineering.berkeley.edu/news/2024/02/researchers-explore-the-phenomenon-of-holonomy/) 
 
