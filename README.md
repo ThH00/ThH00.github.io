@@ -13,7 +13,24 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
 
 ### Contact 
 
-
 Email: theresa.honein at aub.edu.lb<br>
 Office: Bechtel 532<br>
 Office Phone: +961-1-340460 / 350000  Ext. 3429
+
+### Recruiting
+
+I am currently recruiting motivated undergraduate and M.S. students to join my research team. Our work focuses on reproducing the accurate dynamics of the human body using motion capture technologies.
+
+Requirements:
+
+- Interest in dynamics, motion analysis, biomechanics or related fields
+- Dedication to hands-on and computational research
+
+To Apply:
+Please send the following to theresa.honein at aub.edu.lb:
+
+- Unofficial Transcript
+- Resume
+- Brief Letter of Intent (outlining your interest and any relevant experience)
+
+Join us in advancing our understanding of human body dynamics!
