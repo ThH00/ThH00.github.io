@@ -1,4 +1,4 @@
-[RESEARCH](publications)        [TEACHING](08-2024-dynamics/homepage.md)
+[RESEARCH](publications)        [TEACHING](teaching.md)
 ---
 
 # Biography
