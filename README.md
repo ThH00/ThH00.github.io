@@ -5,10 +5,10 @@
 
 ## Theresa Honein
 
-<table>
-  <tr>
-    <td><img src="headshots/theresahonein31072024.jpg" width="150"></td>
-    <td><br>Assistant Professor at American University of Beirut (AUB)<br>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><img src="headshots/theresahonein31072024.jpg" width="150"></td>
+    <td style="border: none;"><br>Assistant Professor at American University of Beirut (AUB)<br>
         Department of Mechanical Engineering<br><br>
         Email: theresa.honein at aub.edu.lb<br>
         Office: Bechtel 532<br>
@@ -21,10 +21,16 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
 
 ## Jamil Chahine
 
-<table>
-  <tr>
-    <td><img src="headshots/jamil_chahine.jpg" width="150"></td>
-    <td><br>Jamil is a third year mechanical engineering undergraduate student at AUB. Jamil is interested in formulating algorithms which use sensor data to reconstruct rigid body system dynamics.
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <div style="width: 150px;">
+        <img src="headshots/jamil_chahine.jpg" width="150">
+      </div>
+    </td>
+    <td style="border: none;">
+      Jamil is a third-year mechanical engineering undergraduate student at AUB. He is interested in formulating algorithms that use sensor data to reconstruct rigid body system dynamics.
+    </td>
   </tr>
 </table>
 
