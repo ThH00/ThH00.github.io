@@ -3,6 +3,13 @@
 
 # AUB Dynamics Research Group
 
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><img src="MSFEA-logo.png" width="250"></td>
+  </tr>
+</table>
+
+
 ## Theresa Honein
 
 <table style="border-collapse: collapse; border: none;">
@@ -28,7 +35,7 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
       </div>
     </td>
     <td style="border: none;">
-      Email: jlc03 at mail.aub.edu <br>
+      Email: jlc03 at mail.aub.edu <br><br>
        My name is Jamil Chahine, and I am a third-year mechanical engineering undergraduate student at AUB. I am interested in utilizing sensor data to reconstruct rigid body system dynamics and develop algorithms for practical applications. Always eager to learn, especially from scratch, and I enjoy working on systems that involve movement. Sharing what I learn, is very important to me, to contribute to a more collaborative and productive work environment. My goal is to apply mechanical engineering principles across various fields to develop useful and impactful solutions.
     </td>
   </tr>
@@ -44,7 +51,8 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
       </div>
     </td>
     <td style="border: none;">
-      My name is Sebastian Alexander Naja is a junior studying Mathematics and Physics at the American University of Beirut. My academic interests include Lagrangian dynamics, topology, differential equations, algebraic methods for solving equations, and continuous groups. I enjoy exploring connections between mathematics, abstract theory, and practical applications in physics.
+      Email: sbn07 at mail.aub.ed <br><br>
+      My name is Sebastian Alexander Naja. I am a junior studying Mathematics and Physics at the American University of Beirut. My academic interests include Lagrangian dynamics, topology, differential equations, algebraic methods for solving equations, and continuous groups. I enjoy exploring connections between mathematics, abstract theory, and practical applications in physics.
     </td>
   </tr>
 </table>
