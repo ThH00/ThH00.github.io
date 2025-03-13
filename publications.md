@@ -19,9 +19,9 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JE6RyMmsWTQ?si=wN_pHCRAh4sKDq4F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-5. Honein, T.E. ; O'Reilly, O. M.: An Adundance of Solutions in the Forced Dynamics of a Stack of Blocks. In: Accepted in Acta Mechanica (2024)
+5. Honein, T.E. ; O'Reilly, O. M.: [On the Dynamics of a Collapsing Set of Blocks(https://doi.org/10.1007/s00707-024-04201-9)]. In: Acta Mechanica (2025)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2sa0vmwJLNk?si=fgue-luSrzh44hj6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_eZ3RTFv-9k?si=L1812WaboIFAgX0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # In the Press
 - Mention in  Berkeley Engineering’s 2024 in review, December 2024: [Berkeley Engineering’s 2024 in review: Nine of our most impactful stories](https://engineering.berkeley.edu/news/2024/12/berkeley-engineerings-2024-in-review/)
