@@ -51,7 +51,7 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
       </div>
     </td>
     <td style="border: none;">
-      Email: sbn07 at mail.aub.ed <br><br>
+      Email: sbn07 at mail.aub.edu <br><br>
       My name is Sebastian Alexander Naja. I am a junior studying Mathematics and Physics at the American University of Beirut. My academic interests include Lagrangian dynamics, topology, differential equations, algebraic methods for solving equations, and continuous groups. I enjoy exploring connections between mathematics, abstract theory, and practical applications in physics.
     </td>
   </tr>
