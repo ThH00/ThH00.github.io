@@ -9,9 +9,9 @@ Office Hours: Tu 8:30-10:00 am, Th 8:30-10:00 am in Etcheverry ????
 | Lecture | Date | Agenda | Homework | Quiz | Lecture Vidoes | Solution Vidoes | Demo Vidoes |
 | ------- | ---- | ------ |--------- | ---- | -------------- | --------------- | ----------- |
 | 01 | Jun 10 | [Set 01 - Vector Calculus]()<br>[Set02 - Units]() | | [Quiz 1] <br> [Solution] | LV | SV | DV |
-| 02 | Jun 12 | [Set03 - Rectilinear Motion]()<br>[Set04 - BoLM for a particle]() |[HW01 - Projectile Motion]() due on Jun 19 | [Quiz 2] <br> [Solution] | LV | [MKB 03-004](https://youtu.be/LAl3ZUiUpus) | DV |
-| 03 | Jun 17 | [Set05 - Cylindrical Polar Coordinates]() <br> [Set06 - Constrained Motion]() | | [Quiz 3] <br> [Solution] | LV | [MKB 02-021](https://youtu.be/wbUBexp8xfc) <br> [MKB 02-099](https://youtu.be/Bt5neJj4Zhc) | DV |
-| 04 | Jun 19 | [Set07 - Serret-Frenet Basis]() <br> [Set08 - Relative Motion and Corotational Bases]() | [HW02 - Bases on Helix]() | [Quiz 4] <br> [Solution] | [Derivation of the S-F Formulae](https://youtu.be/OB13c0WlUSg) | SV | [S-F Wikipedia](https://en.wikipedia.org/wiki/Frenet%E2%80%93Serret_formulas) <br> [S-F on bobsled](https://youtu.be/0ACqRREH180) |
+| 02 | Jun 12 | [Set03 - Rectilinear Motion]()<br>[Set04 - BoLM for a particle]() |[HW01 - Projectile Motion]() due on Jun 19 | [Quiz 2] <br> [Solution] | LV | [* MKB 03-004](https://youtu.be/LAl3ZUiUpus) | DV |
+| 03 | Jun 17 | [Set05 - Cylindrical Polar Coordinates]() <br> [Set06 - Constrained Motion]() | | [Quiz 3] <br> [Solution] | LV | [* MKB 02-021](https://youtu.be/wbUBexp8xfc) <br> [* MKB 02-099](https://youtu.be/Bt5neJj4Zhc) | DV |
+| 04 | Jun 19 | [Set07 - Serret-Frenet Basis]() <br> [Set08 - Relative Motion and Corotational Bases]() | [HW02 - Bases on Helix]() | [Quiz 4] <br> [Solution] | [* Derivation of the S-F Formulae](https://youtu.be/OB13c0WlUSg) | SV | [* S-F Wikipedia](https://en.wikipedia.org/wiki/Frenet%E2%80%93Serret_formulas) <br> [* S-F on bobsled](https://youtu.be/0ACqRREH180) |
 | 05 | Jun 24 | [Set09 - Linear Springs]() <br> [Set10 - Friction]() | | |
 | 06 | Jun 26 | [Set11 - Power, Work and Energy]() | | |
 | 07 | Jul 01 | MIDTERM I <br>[Set12 - Momenta and Impulses for a Particle]() | | |
