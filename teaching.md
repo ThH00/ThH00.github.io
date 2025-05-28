@@ -1,4 +1,7 @@
-# Teaching
+[RESEARCH](publications)        [TEACHING](teaching.md)
+---
+
+# Classes Taught
 
 ## MECH230
 
