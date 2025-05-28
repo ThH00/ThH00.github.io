@@ -1,45 +1,38 @@
 [MECH230 Home](homepage.md)        [Agenda](lectures-agenda.md)        [Annoucements](announcements.md)
 ---
 
-# ME 104
+# Summer 2025 - ME104
 Lecture: Tu 10:00 am - 12:29 pm and Th 0:00 am - 11:59 am in Etcheverry 3113\
 Discussion: We 10:00 am - 12:29 pm in Etcheverry 3113\
 Office Hours: Tu 8:30-10:00 am, Th 8:30-10:00 am in Etcheverry ????
 
-| Lecture | Date | Topic & Chapter in Primer | Topic from MKB | Homework | Suggested Problems |
-| ---- | ------- |-------------------------- | ------- |-------- | ------- |
-| 01 | Jun 10 | A. Preliminary on Vectors and Calculus & Matlab <br> 1. Single Particle: Cartesian Coordinates | 1/1-1/7, 2/2, 2/4, 3/4 |  | [Set 0](sets/Set00.pdf)<br>[Set 1](sets/Set01.pdf) |
-| 02 | Jun 12 | 1. Single Particle: Cartesian Coordinates (cont.) | 1/1-1/7, 2/2, 2/4, 3/4 | [HW01](HW/HW01.pdf) due Sep 4 | [Set 2](sets/Set02.pdf) |
-| 03 | Jun 17 | 2. Single Particle: Polar Coordinates | 2/6,3/5 |  | [Set 3](sets/Set03.pdf) |
-| 04 | Jun 19 | 2. Single Particle: Polar Coordinates | 2/6,3/5 | [HW02](HW/HW02.pdf) due Sep 11 | [Set 4](sets/Set04.pdf) |
-| 05 | Jun 24 | 3. Single Particle: Serret-Frenet Triads | 2/5, 2/7, 3/5 |  | [Set 5](sets/Set05.pdf) |
-| 06 | Jun 26 | 3. Single Particle: Serret-Frenet Triads | 2/5, 2/7, 3/5 | [HW03](HW/HW03.pdf) due Sep 25 | [Set 6](sets/Set06.pdf) |
-| 07 | Jul 01 | No Class |  |  |  |
-| 08 | Jul 03 | 4. Single Particle: Further Kinetics | 3/5 | [HW04](HW/HW04.pdf) due Oct 9 | [Set 7](sets/Set07.pdf) |
-| 09 | Jul 08 | Video Lectures |  |  |  |
-| 10 | Jul 10 | No Class |  |  |  |
-| 11 | Jul 15 | 5. Single Particle: Work and Energy | 3/5-3/7 |  | [Set 8](sets/Set08.pdf) |
-| 12 | Jul 17 | 6.1-6.2 Linear Momenta and Angular Momenta | 3/9-3/10 | [HW05](HW/HW05.pdf) due Oct 16 | [Set 9](sets/Set09.pdf) |
-| 13 | Jul 22 | 6.3-6.5 Collisions of Particles | 3/12 |  | [Set 10](sets/Set10.pdf) |
-| 14 | Jul 24 | 7. Systems of Particles | 4/1-4/5 | [HW06](HW/HW06.pdf) due Oct 30 | [Set 11](sets/Set11.pdf) |
-| 15 | Jul 29 | 7. Systems of Particles cont. |  |  |  |
-| 16 | Jul 31 | 8. Kinematics of Rigid Bodies | 5/1-5/4 |  | [Set 12](sets/Set12.pdf) |
-| 17 | Aug 05 | Review |  |  |  |
-| 18 | Aug 07 | Review |  |  |  |
-| 19 | Aug 12 | 8. Kinematics of Rigid Bodies | 5/5-5/7 | | [Set 13](sets/Set13.pdf) |
-| 20 | Aug 14 | 8. Kinematics of Rigid Bodies | 5/5-5/7 | [HW07](HW/HW07.pdf) due Nov 13 | [Set 14](sets/Set14.pdf) |
+| Lecture | Date | Agenda | Homework | Quiz | Lecture Vidoes | Solution Vidoes | Demo Vidoes |
+| ------- | ---- | ------ |--------- | ---- | -------------- | --------------- | ----------- |
+| 01 | Jun 10 | [Set 01 - Vector Calculus]()<br>[Set02 - Units]() | | [Quiz 1] <br> [Solution] | LV | SV | DV |
+| 02 | Jun 12 | [Set03 - Rectilinear Motion]()<br>[Set04 - BoLM for a particle]() |[HW01 - Projectile Motion]() due on Jun 19 | [Quiz 2] <br> [Solution] | LV | [MKB 03-004](https://youtu.be/LAl3ZUiUpus) | DV |
+| 03 | Jun 17 | [Set05 - Cylindrical Polar Coordinates]() <br> [Set06 - Constrained Motion]() | | [Quiz 3] <br> [Solution] | LV | [MKB 02-021](https://youtu.be/wbUBexp8xfc) <br> [MKB 02-099](https://youtu.be/Bt5neJj4Zhc) | DV |
+| 04 | Jun 19 | [Set07 - Serret-Frenet Basis]() <br> [Set08 - Relative Motion and Corotational Bases]() | [HW02 - Bases on Helix]() | [Quiz 4] <br> [Solution] | [Derivation of the S-F Formulae](https://youtu.be/OB13c0WlUSg) | SV | [S-F Wikipedia](https://en.wikipedia.org/wiki/Frenet%E2%80%93Serret_formulas) <br> [S-F on bobsled](https://youtu.be/0ACqRREH180) |
+| 05 | Jun 24 | [Set09 - Linear Springs]() <br> [Set10 - Friction]() | | |
+| 06 | Jun 26 | [Set11 - Power, Work and Energy]() | | |
+| 07 | Jul 01 | MIDTERM I <br>[Set12 - Momenta and Impulses for a Particle]() | | |
+| 08 | Jul 03 | [Set 13 - Collisions]() <br> [Set 14 - Systems of Particles]() | | |
+| 09 | Jul 08 | [Set 15 - Kinematics of RBs]() | | |
+| 10 | Jul 10 | [Set16 - IC and Motion wrt RB]() | | |
+| 11 | Jul 15 | MIDTERM II | | |
+| 12 | Jul 17 | [Set17 - Rolling and Sliding]() | | |
+| 13 | Jul 22 | [Set18 - Moments of Inertia]() | | |
+| 14 | Jul 24 | [Set19 - Rigid Body Translation]() | | |
+| 15 | Jul 29 | [Set20 - Fixed Point Rotation]() | | |
+| 16 | Aug 31 | [Set21 - General Plane Motion]() | | |
+| 17 | Aug 05 | [Set22 - Impulse Momentum]() | | |
+| 18 | Aug 07 | [Set23 - Work-Energy Theorem for RB]()| | |
+| 19 | Aug 12 | Review | | | |
+| 20 | Aug 14 | Final Exam (focused on RBs) | | | |
 
-
-| 12 | Nov 11 | 8. Kinematics of Rigid Bodies <br> 9. Planar Dynamics of Rigid Bodies| 5/5-5/7 <br> 6/1-6/3 , Apps A & B|  | [Set 15](sets/Set15.pdf) |
-| 12 | Nov 13 | 9. Planar Dynamics of Rigid Bodies | 6/4 | [HW08](HW/HW08.pdf) due Nov 20 | [Set 16](sets/Set16.pdf) |
-| 13 | Nov 18 | 9. Planar Dynamics of Rigid Bodies | 6/5-6/6 |  | [Set 17](sets/Set17.pdf) |
-| 13 | Nov 20 | 9. Planar Dynamics of Rigid Bodies | 6/5-6/6 | [HW09](HW/HW09.pdf) due on Dec 4 | [Set 18](sets/Set18.pdf) |
-| 14 | Nov 25 | Midterm 2 Review |  |  |  |
-| 14 | Nov 27 | No Class |  |  |  |
-| 15 | Dec 2 | Midterm 2 <br> RB Kinetics cont. |  |  |  |
-| 15 | Dec 4 | Work-Energy | 6/7 | HW10 due on Dec 11 | [Set 19](sets/Set19.pdf) |
-| 16 | Dec 9 | Impulse Momentum | 6/8 |  | [Set 20](sets/Set20.pdf) |
-| 16 | Dec 11 |  | 6/8 |  |  |
-| | Dec 19 | Final Exam | | 3:30-5pm in NICELY 500| Focused on Rigid Bodies |
 
 [MKB Properties of Bodies](solids-mkb.pdf)
+
+- put reading reference from o'reilly and MKB and problem sets
+
+Extra References
+- Statics: [Introduction to Solid Mechanics - An Integrated Approach](https://link.springer.com/book/10.1007/978-1-4614-6768-7) by Lubliner and Papadopoulos
