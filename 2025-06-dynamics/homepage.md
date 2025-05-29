@@ -4,7 +4,7 @@
 # Summer 2025 - ME104
 Lecture: Tu 10:00 am - 12:29 pm and Th 0:00 am - 11:59 am in Etcheverry 3113\
 Discussion: We 10:00 am - 12:29 pm in Etcheverry 3113\
-Office Hours: Tu 8:30-10:00 am, Th 8:30-10:00 am in Etcheverry ????
+Office Hours: Tu 8:30-10:00 am, Th 8:30-10:00 am in Etcheverry 6185
 
 | Lecture | Date | Agenda | Homework | Quiz | Lecture Vidoes | Solution Vidoes | Demo Vidoes |
 | ------- | ---- | ------ |--------- | ---- | -------------- | --------------- | ----------- |
