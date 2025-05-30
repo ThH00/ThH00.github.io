@@ -11,7 +11,7 @@ Teaching Assistant: Ekaterina Aleksandrovna Antimirova\
 Discussion: We 10:00 am - 12:29 pm in Etcheverry 3113\
 Office Hours: ???
 
-| Lecture | Date | Agenda | Homework | Quiz | Lecture Vidoes | Solution Vidoes | Demo Vidoes |
+|  | Date | Agenda | Homework | Quiz | Lecture Vidoes | Solution Vidoes | Demo Vidoes |
 | ------- | ---- | ------ |--------- | ---- | -------------- | --------------- | ----------- |
 | 01 | Jun 10 | [Set 01 - Vector Calculus]()<br>[Set02 - Units]() | | [Quiz 1] <br> [Solution] | LV | SV | DV |
 | 02 | Jun 12 | [Set03 - Rectilinear Motion]()<br>[Set04 - BoLM for a particle]() |[HW01 - Projectile Motion] due on Jun 19 | [Quiz 2] <br> [Solution] | LV | [* MKB 03-004](https://youtu.be/LAl3ZUiUpus) | DV |
