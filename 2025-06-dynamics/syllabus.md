@@ -56,6 +56,10 @@ In this class, I am aiming for you to do a lot of practice during lecture. To en
 
 Each week, you will have one take home homework which involes some coding. These are meant to help you truly understand and apply the concepts we learn. You'll submit these homework on gradescope by midnight on their due date.
 
+### Problem Sets
+
+For each concept we explain, I will post a problem set. We will solve some of these problems in class, some in the discussions sessions, some problems will have video solutions, and the rest you will have to solve on your own. You can always ask about these problems in office hours or on ed.
+
 ### Study Group
 You are encouraged to form small study groups of 2-3 students. However, each student should write their homework on their own.
 Do not share homework solutions!
@@ -75,7 +79,7 @@ Problem set problems will be assigned from
 
 J. L. Meriam, L. G. Kraige, and J. N. Bolton Engineering Mechanics: Dynamics, Ninth Edition, Wiley, New York, 2018.
 
-You won't need to purchase a textbook. Any version works.... Problems will be posted..
+You can use any version of this textbook as an extra reference. I will post the prompt of the questions you need to solve.
 
 ### Copyrights
 All the course material, including but not limited to homework sets, homework solutions, quizzes, exams, lecture notes, lecture
