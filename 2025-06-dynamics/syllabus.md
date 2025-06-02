@@ -6,7 +6,7 @@
 ### Instructor: Theresa Honein
 - Email: theresa_honein at berkeley.edu
 - Lecture: Tu 10:00 am - 12:29 pm and Th 10:00 am - 11:59 am in Etcheverry 3113
-- Office Hours: Tu 8:30-10:00 am, Th 8:30-10:00 am in Etcheverry 6185
+- Office Hours: Tu 1:00-2:00 pm, Th 12:30-2:00 pm in Etcheverry 6185
 
 ### Teaching Assistant: Ekaterina Aleksandrovna Antimirova
 - Email: ekatant23 at berkeley.edu
@@ -46,24 +46,24 @@ If the answer is yes, post a screen shot of the relevant part.
 | Midterm II | 20% |
 | Final | 30% |
 
-If at the end of the semester you submit the evaluations for both the instructor and the GSI, we will only keep your 12 highest in-class quiz grades (so that each counted quiz grade is worth 2% of you final grade). This policy is meant to accommodate any potential absences during the semester. Only use this policy as a last resort.
+If, at the end of the semester, you submit evaluations for both the instructor and the GSI, we will retain only your 12 highest in-class quiz grades (so that each counted quiz contributes 2% to your final grade). This policy is intended to accommodate any potential absences during the semester. Please use this policy only as a last resort.
 
-In accordance with departmental guidelines, the mean GPA for the course will be ≈ 2.9. In class quiz solutions and exam solutions
-will be posted on the class website.
+In accordance with departmental guidelines, the mean GPA for the course will be approximately 2.9. In-class quiz solutions and exam solutions will be posted on the class website.
 
 ### In class quizzes
 
-In this class, I am aiming for you to do a lot of practice during lecture. To encourage this, each lecture will involve a group or an individual assessment.
+In this class, my goal is for you to get plenty of practice during lectures. To encourage this, each lecture will include either a group or individual assessment.
 
 ### Homework
 
-Each week, you will have one take home homework which involes some coding. These are meant to help you truly understand and apply the concepts we learn. You'll submit these homework on gradescope by midnight on their due date.
+Each week, you will have one take-home homework assignment that involves some coding. These assignments are designed to help you deeply understand and apply the concepts we cover in class. You’ll submit them on Gradescope by midnight on the due date.
 
 ### Problem Sets
 
-For each concept we explain, I will post a problem set. We will solve some of these problems in class, some in the discussions sessions, some problems will have video solutions, and the rest you will have to solve on your own. You can always ask about these problems in office hours or on ed.
+For each concept we cover, I will post a corresponding problem set. We will solve some of these problems in class, some during discussion sessions, and others will have video solutions. The remaining problems you are expected to work through on your own. You are always welcome to ask about any of these problems during office hours or on Ed.
 
 ### Study Group
+
 You are encouraged to form small study groups of 2-3 students. However, each student should write their homework on their own.
 Do not share homework solutions!
 
@@ -74,9 +74,8 @@ All of the lectures will be taken from Professor O’Reilly’s book
 O. M. O’Reilly, Engineering Dynamics: A Primer, Third Edition
 Springer-Verlag, New York, 2019.
 
-The electronic version of this text is available for free [here](???). You will need to install the [UC Berkeley Library Proxy](???) to be able to
-view the book from oﬀ-campus. Alternatively, you can try going through the Springer Electronic Book Package link located [here](???),
-which requires a UC Berkeley CalNet Login to access.
+The electronic version of this text is available for free [here](https://doi.org/10.1007/978-3-030-11745-0). You will need to install the [UC Berkeley Library Proxy](https://www.lib.berkeley.edu/help/proxy-server) to be able to
+view the book from oﬀ-campus.
 
 Problem set problems will be assigned from
 
