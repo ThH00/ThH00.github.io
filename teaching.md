@@ -7,7 +7,7 @@
 
 - [Fall 2024](08-2024-dynamics/homepage.md)
 - [Spring 2025](https://mech230.github.io)
-- [Summer 2025](2025-06-dynamics/homepage.md)
+- [Summer 2025](me104/homepage.md)
 
 
 ## Photo Gallery

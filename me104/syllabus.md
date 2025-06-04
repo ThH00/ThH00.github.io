@@ -6,12 +6,12 @@
 ### Instructor: Theresa Honein
 - Email: theresa_honein at berkeley.edu
 - Lecture: Tu 10:00 am - 12:29 pm and Th 10:00 am - 11:59 am in Etcheverry 3113
-- Office Hours: Tu 1:00-2:00 pm, Th 12:30-2:00 pm in Etcheverry 6185
+- Office Hours: Tu 1:30-3:00 pm, Th 12:30-2:00 pm in Etcheverry 6185
 
 ### Teaching Assistant: Ekaterina Aleksandrovna Antimirova
 - Email: ekatant23 at berkeley.edu
 - Discussion: We 10:00 am - 12:29 pm in Etcheverry 3113
-- Office Hours: ???
+- Office Hours: TBD
 
 ### Ed Discussion
 For homework advice or conceptual questions, please use [Ed Discussion](???). Class group chats besides Piazza are not allowed. If you have non-conceptional or non-homework/exam related questions, please use email.
@@ -37,7 +37,6 @@ question is. Ask yourself: am I referring to some lecture note/HW solution/discu
 If the answer is yes, post a screen shot of the relevant part.
 
 ### Grading
-
 | Item | Percentage |
 | ---- | ---------- |
 | In class quizzes | 24% |
@@ -51,24 +50,19 @@ If, at the end of the semester, you submit evaluations for both the instructor a
 In accordance with departmental guidelines, the mean GPA for the course will be approximately 2.9. In-class quiz solutions and exam solutions will be posted on the class website.
 
 ### In class quizzes
-
 In this class, my goal is for you to get plenty of practice during lectures. To encourage this, each lecture will include either a group or individual assessment.
 
 ### Homework
-
 Each week, you will have one take-home homework assignment that involves some coding. These assignments are designed to help you deeply understand and apply the concepts we cover in class. You’ll submit them on Gradescope by midnight on the due date.
 
 ### Problem Sets
-
 For each concept we cover, I will post a corresponding problem set. We will solve some of these problems in class, some during discussion sessions, and others will have video solutions. The remaining problems you are expected to work through on your own. You are always welcome to ask about any of these problems during office hours or on Ed.
 
 ### Study Group
-
 You are encouraged to form small study groups of 2-3 students. However, each student should write their homework on their own.
 Do not share homework solutions!
 
 ### Text, Reader, and Supplemental Material
-
 All of the lectures will be taken from Professor O’Reilly’s book
 
 O. M. O’Reilly, Engineering Dynamics: A Primer, Third Edition
@@ -83,13 +77,15 @@ J. L. Meriam, L. G. Kraige, and J. N. Bolton Engineering Mechanics: Dynamics, Ni
 
 You can use any version of this textbook as an extra reference. I will post the prompt of the questions you need to solve.
 
+### Lecture Recordings
+I will arrange for the lecture to be recorded. However, the recordings might not be setup by the first week of class.
+
 ### Copyrights
 All the course material, including but not limited to homework sets, homework solutions, quizzes, exams, lecture notes, lecture
 videos, discussion notes, discussion videos, etc. are under copyright. No part can be copied transmitted (e.g. Chegg, course hero,
 etc.), reproduced or translated into another language without the written permission of Theresa Honein.
 
 ### Honor Code
-
 As a member of the UC Berkeley community, you are expected to act with honesty, integrity, and respect to others. Any test
 submitted by you should be your own work done without collaboration or contact with anyone and without consulting any online
 resources. You are allowed to discuss the homework with other students, but you are required to prepare and submit your own
