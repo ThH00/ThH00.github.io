@@ -1,4 +1,4 @@
-[MECH230 Home](homepage.md)        [Syllabus](syllabus.md)
+[ME104 Home](homepage.md)        [Syllabus](syllabus.md)
 ---
 
 # Syllabus
