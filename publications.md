@@ -23,6 +23,21 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_eZ3RTFv-9k?si=L1812WaboIFAgX0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+# Conferences
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="text-align: center;">
+    <img src="presentations_photos/compfest_dec_2022.HEIC" alt="Stanford/Berkeley Compfest, December 2022 at Stanford University, CA, USA" width="300"/>
+    <p>Fall2024 MECH230 Section2</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="presentation_photos/nodycon_june_2025.HEIC" alt="NODYCON2025, June 2025 at Stevens Institure of Technology, NJ, USA" width="300"/>
+    <p>Spring2025 MECH230 Section1</p>
+  </div>
+
+</div>
+
 # In the Press
 - Mention in  Berkeley Engineering’s 2024 in review, December 2024: [Berkeley Engineering’s 2024 in review: Nine of our most impactful stories](https://engineering.berkeley.edu/news/2024/12/berkeley-engineerings-2024-in-review/)
 - Article in Berkeley Engineer magazine, Summer 2024:  [Ready to roll](https://engineering.berkeley.edu/news/2024/05/ready-to-roll/)
