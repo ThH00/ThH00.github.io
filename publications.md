@@ -27,13 +27,13 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="text-align: center;">
-    <img src="presentations_photos/compfest_dec_2022.HEIC" alt="Stanford/Berkeley Compfest, December 2022 at Stanford University, CA, USA" width="300"/>
-    <p>Fall2024 MECH230 Section2</p>
+    <img src="presentations_photos/compfest_dec_2022.png" alt="Stanford/Berkeley Compfest, December 2022 at Stanford University, CA, USA" width="300"/>
+    <p>Stanford/Berkeley Compfest,<br> December 2022 at Stanford University, CA, USA</p>
   </div>
 
   <div style="text-align: center;">
-    <img src="presentation_photos/nodycon_june_2025.HEIC" alt="NODYCON2025, June 2025 at Stevens Institure of Technology, NJ, USA" width="300"/>
-    <p>Spring2025 MECH230 Section1</p>
+    <img src="presentations_photos/nodycon_june_2025.png" alt="NODYCON2025, June 2025 at Stevens Institure of Technology, NJ, USA" width="300"/>
+    <p>NODYCON2025,<br> June 2025 at Stevens Institure of Technology, NJ, USA</p>
   </div>
 
 </div>
