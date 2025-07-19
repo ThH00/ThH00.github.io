@@ -17,11 +17,11 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OP6tvueLgnE?si=k1OVn0TH2FxK1pwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></li>
 
-<li> Honein, T. E. ; O’Reilly, O. M.: [On the Dynamics of Transporting Cylinders](https://doi.org/10.1007/s11071-024-10443-y). In: Nonlinear Dynamics (2024)
+<li> Honein, T. E. ; O’Reilly, O. M.: [On the Dynamics of Transporting Cylinders](https://doi.org/10.1007/s11071-024-10443-y). In: Nonlinear Dynamics (2024).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JE6RyMmsWTQ?si=wN_pHCRAh4sKDq4F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></li>
 
-<li> Honein, T.E. ; O'Reilly, O. M.: [On the Dynamics of a Collapsing Set of Blocks](https://doi.org/10.1007/s00707-024-04201-9)]. In: Acta Mechanica (2025)
+<li> Honein, T.E. ; O'Reilly, O. M.: [On the Dynamics of a Collapsing Set of Blocks](https://doi.org/10.1007/s00707-024-04201-9)]. In: Acta Mechanica (2025).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_eZ3RTFv-9k?si=L1812WaboIFAgX0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></li>
 
