@@ -36,6 +36,11 @@
     <p>NODYCON2025,<br> June 2025 at Stevens Institure of Technology, NJ, USA</p>
   </div>
 
+  <div style="text-align: center;">
+    <img src="presentations_photos/esmc_july_2025.png" alt="ESMC2025, July 2025 at Lyon Conference Center, France" width="300"/>
+    <p>ESMC2025,<br> July 2025 at Lyon Conference Center, France</p>
+  </div>
+
 </div>
 
 # In the Press
