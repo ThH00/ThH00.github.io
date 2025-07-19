@@ -3,25 +3,29 @@
 
 # Publications
 
-1. Honein, T. E. ; O’Reilly, O. M.: [On the Gibbs-Appell Equations for the Dynamics of Rigid Bodies](https://doi.org/10.1115/1.4051181). In: Journal of Applied Mechanics 88 (2021), Nr. 7, 074501-074503. 
+<ol>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NBcgg4WrCiA?si=niAMMwcIO16DNUZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<li> Honein, T. E. ; O’Reilly, O. M.: [On the Gibbs-Appell Equations for the Dynamics of Rigid Bodies](https://doi.org/10.1115/1.4051181). In: Journal of Applied Mechanics 88 (2021), Nr. 7, 074501-074503. 
 
-2. Honein, T. E. ; O’Reilly, O. M.: [The geometry of equations of motion: particles in equivalent universes](https://doi.org/10.1007/s11071-021-06565-2). In: Nonlinear Dynamics 144 (2021), 2979–2994. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NBcgg4WrCiA?si=niAMMwcIO16DNUZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></li>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/biJuSaIr2PE?si=XvmP6p2ylthMsejT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<li> Honein, T. E. ; O’Reilly, O. M.: [The geometry of equations of motion: particles in equivalent universes](https://doi.org/10.1007/s11071-021-06565-2). In: Nonlinear Dynamics 144 (2021), 2979–2994. 
 
-3. Honein, T. E. ; O’Reilly, O. M.: [Explorations of the holonomy of a rolling sphere](https://doi.org/10.1098/rspa.2023.0684). In: Proceedings of the Royal Society A 480 (2024), Nr. 2282, 20230684. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/biJuSaIr2PE?si=XvmP6p2ylthMsejT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></li>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OP6tvueLgnE?si=k1OVn0TH2FxK1pwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<li> Honein, T. E. ; O’Reilly, O. M.: [Explorations of the holonomy of a rolling sphere](https://doi.org/10.1098/rspa.2023.0684). In: Proceedings of the Royal Society A 480 (2024), Nr. 2282, 20230684. 
 
-4. Honein, T. E. ; O’Reilly, O. M.: [On the Dynamics of Transporting Cylinders](https://doi.org/10.1007/s11071-024-10443-y). In: Nonlinear Dynamics (2024)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OP6tvueLgnE?si=k1OVn0TH2FxK1pwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></li>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JE6RyMmsWTQ?si=wN_pHCRAh4sKDq4F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<li> Honein, T. E. ; O’Reilly, O. M.: [On the Dynamics of Transporting Cylinders](https://doi.org/10.1007/s11071-024-10443-y). In: Nonlinear Dynamics (2024)
 
-5. Honein, T.E. ; O'Reilly, O. M.: [On the Dynamics of a Collapsing Set of Blocks](https://doi.org/10.1007/s00707-024-04201-9)]. In: Acta Mechanica (2025)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JE6RyMmsWTQ?si=wN_pHCRAh4sKDq4F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></li>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_eZ3RTFv-9k?si=L1812WaboIFAgX0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<li> Honein, T.E. ; O'Reilly, O. M.: [On the Dynamics of a Collapsing Set of Blocks](https://doi.org/10.1007/s00707-024-04201-9)]. In: Acta Mechanica (2025)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_eZ3RTFv-9k?si=L1812WaboIFAgX0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></li>
+
+</ol>
 
 # Conferences
 
