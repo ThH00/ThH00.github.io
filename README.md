@@ -25,6 +25,22 @@
 
 My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the University of California, Berkeley in Summer 2024 under [Professor Oliver O'Reilly](https://me.berkeley.edu/people/oliver-m-oreilly). I am interested in utilizing tools from dynamics and mechanics to create physically accurate simulations of seemingly simple, yet actually difficult to model, phenomena. I have previously studied the treatment of holonomic and nonholonomic constraints in different formulations of the equations of motion. I am currently interested in leveraging recent advances in numerical methods to model the nonsmooth dynamics of impacting rigid bodies.
 
+<p>
+  <a href="https://www.youtube.com/@theresahonein" target="_blank">
+    <img src="social_media_logos/youtube.png" alt="YouTube" height="30" style="margin-right:10px;">
+  </a>
+  <!-- <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="social_media_logos/linkedin.png" alt="LinkedIn" height="30" style="margin-right:10px;">
+  </a> -->
+  <a href="https://scholar.google.com/citations?user=_LwpuP4AAAAJ&hl=en&oi=ao" target="_blank">
+    <img src="social_media_logos/google_scholar.png" alt="Scholar" height="30" style="margin-right:10px;">
+  </a>
+  <!-- <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="social_media_logos/X.png.webp" alt="X" height="30">
+  </a> -->
+</p>
+
+
 ## Jamil Chahine
 
 <table style="border-collapse: collapse; border: none;">
