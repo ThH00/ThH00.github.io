@@ -6,12 +6,12 @@
 ## MECH230 Undergraduate Dynamics
 
 - [Fall 2024](08-2024-dynamics/homepage.md)
-- [Spring 2025](https://mech230.github.io)
+- [Spring 2025](https://mech230.github.io/S25/)
 - Summer 2025
-- Fall 2025
+- [Fall 2025](https://mech230.github.io/F25/)
 
 ## MECH532/620 Intermediate Dynamics
-- Fall 2025
+- [Fall 2025](https://thh00.github.io/mech620/)
 
 ## Photo Gallery
 
