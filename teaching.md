@@ -36,12 +36,12 @@
   </div>
 
   <div style="text-align: center;">
-    <img src="class_photos/Fall2025_MECH230_Section1.JPG" alt="Fall2025_MECH230_Section1" width="300"/>
+    <img src="class_photos/Fall2025_MECH230_Section1.ipg" alt="Fall2025_MECH230_Section1" width="300"/>
     <p>Fall2025 MECH230 Section1</p>
   </div>
 
   <div style="text-align: center;">
-    <img src="class_photos/Fall2025_MECH620.JPG" alt="Fall2025_MECH620" width="300"/>
+    <img src="class_photos/Fall2025_MECH620.jpg" alt="Fall2025_MECH620" width="300"/>
     <p>Fall2025 MECH620</p>
   </div>
 
