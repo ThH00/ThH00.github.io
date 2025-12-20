@@ -47,21 +47,39 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
   </a> -->
 <!-- </p> -->
 
-## Nour Hallak
+## Karim Braidi
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;">
       <div style="width: 150px;">
-        <img src="headshots/nour-hallak.jpeg" width="150">
+        <img src="headshots/headshot-placeholder.png" width="150">
       </div>
     </td>
     <td style="border: none;">
-      Email: nnh34 at mail.aub.edu <br><br>
-      My name is Noor Hallak, I'm a first year graduate student in the mechanical masters program. I came from a Mechatronics engineering background. I have experience in robotics and automation, and I am interested in research related to dynamic applications in robotics. I am very passionate about creating simulation of real-world scenes related to mechanics and dynamics of materials and mechanisms.
+      Email: kab30 at mail.aub.edu <br><br>
+      Add description here.
     </td>
   </tr>
 </table>
+
+## Wafic Itani
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <div style="width: 150px;">
+        <img src="headshots/headshot-placeholder.png" width="150">
+      </div>
+    </td>
+    <td style="border: none;">
+      Email: woi00 at mail.aub.edu <br><br>
+      Add description here.
+    </td>
+  </tr>
+</table>
+
+
 
 ## Join our research group!
 
@@ -81,36 +99,3 @@ Please send the following to theresa.honein at aub.edu.lb:
 
 Join us in advancing our understanding of human body dynamics!
 
-## Previous Members
-
-### Jamil Chahine
-
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <div style="width: 150px;">
-        <img src="headshots/jamil_chahine.jpg" width="150">
-      </div>
-    </td>
-    <td style="border: none;">
-      Email: jlc03 at mail.aub.edu <br><br>
-       My name is Jamil Chahine, and I am a third-year mechanical engineering undergraduate student at AUB. I am interested in utilizing sensor data to reconstruct rigid body system dynamics and develop algorithms for practical applications. Always eager to learn, especially from scratch, and I enjoy working on systems that involve movement. Sharing what I learn, is very important to me, to contribute to a more collaborative and productive work environment. My goal is to apply mechanical engineering principles across various fields to develop useful and impactful solutions.
-    </td>
-  </tr>
-</table>
-
-### Sebastian Alexander Naja
-
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <div style="width: 150px;">
-        <img src="headshots/sebastian_naja.jpeg" width="150">
-      </div>
-    </td>
-    <td style="border: none;">
-      Email: sbn07 at mail.aub.edu <br><br>
-      My name is Sebastian Alexander Naja. I am a junior studying Mathematics and Physics at the American University of Beirut. My academic interests include Lagrangian dynamics, topology, differential equations, algebraic methods for solving equations, and continuous groups. I enjoy exploring connections between mathematics, abstract theory, and practical applications in physics.
-    </td>
-  </tr>
-</table>
