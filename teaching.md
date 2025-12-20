@@ -42,7 +42,7 @@
 
   <div style="text-align: center;">
     <img src="class_photos/Fall2025_MECH620.jpg" alt="Fall2025_MECH620" width="300"/>
-    <p>Fall2025 MECH620</p>
+    <p>Fall2025 MECH532/620</p>
   </div>
 
 </div>
