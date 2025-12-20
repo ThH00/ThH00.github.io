@@ -1,8 +1,11 @@
 [RESEARCH](publications)        [TEACHING](teaching.md)
 ---
 
-# Publications
+# Current Projects
+- Analysis of hula hooping motion.
+- Enabling Precise Payload Handling in Soft Robotics through Advanced Contact Mechanics: A Discrete Elastic Rod Framework for Rigid Payload Manipulation
 
+# Publications
 
 1. Honein, T. E. ; O’Reilly, O. M.: [On the Gibbs-Appell Equations for the Dynamics of Rigid Bodies](https://doi.org/10.1115/1.4051181). In: Journal of Applied Mechanics 88 (2021), Nr. 7, 074501-074503. 
 
@@ -53,3 +56,4 @@
 # Some Notes
 
 - [On the relationship between holonomy and nonintegrable constraints](notes/Holonomy_and_Nonintegrable_Constraints.pdf)
+- [On a basis formed by the quaternion representation of a rotation](notes/quaternion_basis.pdf)
