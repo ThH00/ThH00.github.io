@@ -13,6 +13,10 @@
 ## MECH532/620 Intermediate Dynamics
 - [Fall 2025](https://thh00.github.io/mech620/)
 
+## MECH797 Graduate Seminars
+- Fall 2025
+- Spring 2026
+
 ## Photo Gallery
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -31,6 +35,16 @@
     <p>Spring2025 MECH230 Section5</p>
   </div>
 
+  <div style="text-align: center;">
+    <img src="class_photos/Fall2025_MECH230_Section1.JPG" alt="Fall2025_MECH230_Section1" width="300"/>
+    <p>Fall2025 MECH230 Section1</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="class_photos/Fall2025_MECH620.JPG" alt="Fall2025_MECH620" width="300"/>
+    <p>Fall2025 MECH620</p>
+  </div>
+
 </div>
 
 # Final Year Projects
@@ -39,6 +53,8 @@
 - `Designing and Building a Racing Wheelchair` by Bahaa Abed, Kevin Ibrahim, Leatithia Zeitouny and Lynn Barhouche. [[Poster](https://drive.google.com/file/d/1McinD52IDseHa2RCwR1Cel1bHMsAfo8H/view?usp=sharing), [Video](https://youtu.be/WT_aFLQ14Ss?si=7zVLr2RhIYNThZ7k)]
 
 - `Modeling and Building a Robotic Hand` by Joe Azzi, Karelle Honein, Joe Moussa and Leo Tchennozian. [Poster, Video]
+
+- `Analysis of Almaza Twist Off Caps` by Joe Raphael, Elie Bechara, Anthony Khoury, Nabil Tabanji.
 
 ## Photo Gallery
 
