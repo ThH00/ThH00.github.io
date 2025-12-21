@@ -69,12 +69,12 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
   <tr style="border: none;">
     <td style="border: none;">
       <div style="width: 150px;">
-        <img src="headshots/headshot-placeholder.png" width="150">
+        <img src="headshots/wafic_itani.jpeg" width="150">
       </div>
     </td>
     <td style="border: none;">
       Email: woi00 at mail.aub.edu <br><br>
-      Add description here.
+      My name is Wafic Itani, and I am a second-year mechanical engineering undergraduate student at AUB. I am passionate about motorsports, vehicle dynamics, and dynamics in general, with a strong interest in understanding and improving the motion of mechanical systems. I approach challenges with curiosity and persistence, always eager to push myself to learn new concepts and expand my skills. I enjoy working in collaborative environments where ideas are exchanged openly, and I value the process of turning theoretical knowledge into practical, real-world applications.
     </td>
   </tr>
 </table>
