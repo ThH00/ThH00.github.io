@@ -53,12 +53,12 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
   <tr style="border: none;">
     <td style="border: none;">
       <div style="width: 150px;">
-        <img src="headshots/headshot-placeholder.png" width="150">
+        <img src="headshots/karim_braidi.jpg" width="150">
       </div>
     </td>
     <td style="border: none;">
       Email: kab30 at mail.aub.edu <br><br>
-      Add description here.
+      My name is Karim Braidi. I am a graduate student at the American University of Beirut (AUB) working under the supervision of Dr. Theresa Honein. My research interests are rigid body dynamics and multibody systems, with a focus on analytical and numerical formulations. I’m particularly interested in data-driven modeling approaches for dynamical systems, including reduced-order modeling and integration of machine learning techniques in classical mechanics. 
     </td>
   </tr>
 </table>
