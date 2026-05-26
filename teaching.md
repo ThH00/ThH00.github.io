@@ -10,6 +10,7 @@
 - Summer 2025
 - [Fall 2025](https://mech230.github.io/F25/)
 - [Spring 2026](https://mech230.github.io/S26/)
+- Summer 2026
 
 ## MECH532/620 Intermediate Dynamics
 - [Fall 2025](https://thh00.github.io/mech620/)
