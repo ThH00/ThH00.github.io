@@ -46,6 +46,18 @@
     <p>Fall2025 MECH532/620</p>
   </div>
 
+  <div style="text-align: center;">
+    <img src="class_photos/Spring2026_MECH230_Section2.JPG" alt="Spring2026_MECH230_Section2" width="300"/>
+    <p>Spring2026 MECH230 Section2</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="class_photos/Spring2026_MECH230_Section5.JPG" alt="Spring2026_MECH230_Section5" width="300"/>
+    <p>Spring2026 MECH230 Section5</p>
+  </div>
+
+
+
 </div>
 
 # Final Year Projects
@@ -68,6 +80,11 @@
   <div style="text-align: center;">
     <img src="fyp_photos/2025_robotic_hand.png" alt="2025 Robotic Hand" width="300"/>
     <p>2025 Robotic Hand</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="fyp_photos/2026_almaza.jpg" alt="2026 Almaza Bottles" width="300"/>
+    <p>2026 Almaza Bottles</p>
   </div>
 
 </div>
