@@ -48,12 +48,12 @@
   </div>
 
   <div style="text-align: center;">
-    <img src="class_photos/Spring2026_MECH230_Section2.JPG" alt="Spring2026_MECH230_Section2" width="300"/>
+    <img src="class_photos/Spring2026_MECH230_Section2.jpg" alt="Spring2026_MECH230_Section2" width="300"/>
     <p>Spring2026 MECH230 Section2</p>
   </div>
 
   <div style="text-align: center;">
-    <img src="class_photos/Spring2026_MECH230_Section5.JPG" alt="Spring2026_MECH230_Section5" width="300"/>
+    <img src="class_photos/Spring2026_MECH230_Section5.jpg" alt="Spring2026_MECH230_Section5" width="300"/>
     <p>Spring2026 MECH230 Section5</p>
   </div>
 
@@ -79,7 +79,7 @@
   </div>
 
   <div style="text-align: center;">
-    <img src="fyp_photos/2025_robotic_hand.png" alt="2025 Robotic Hand" width="300"/>
+    <img src="fyp_photos/2025_robotic_hand.png" alt="2025 Robotic Hand" width="200"/>
     <p>2025 Robotic Hand</p>
   </div>
 
