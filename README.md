@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-The long-term vision of the \href{https://thh00.github.io}{Honein Dynamics Lab} is to develop accessible technology capable of producing physically accurate simulations of quasi rigid motion from video at low cost. Ultimately, this could enable applications such as mobile tools that teach motor skills ranging from bicycle riding to correct padel technique using only video data. Such technology would deepen our understanding of dynamic phenomena, improve motion diagnosis and optimization, and generate high quality datasets for training future machine learning models.
+The long-term vision of the \href{https://thh00.github.io}{Honein Dynamics Lab} is to develop accessible technology capable of producing physically accurate simulations of quasi rigid motion from video at low cost. Ultimately, this could enable applications such as mobile tools that teach motor skills ranging from bicycle riding to correct padel technique using only video data. Such technology would deepen our understanding of dynamic phenomena, improve motion diagnosis and optimization, and generate high quality datasets for training future machine learning models. I have recently been names a fellow for the \href{https://www.aub.edu.lb/cams/Pages/fellows.aspx}{Center of Advanced Mathematical Sciences} at AUB.
 
 ## Theresa Honein
 
