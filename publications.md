@@ -2,30 +2,80 @@
 ---
 
 # Current Projects
-- Analysis of hula hooping motion.
 - Enabling Precise Payload Handling in Soft Robotics through Advanced Contact Mechanics: A Discrete Elastic Rod Framework for Rigid Payload Manipulation
+- Modelling and Control of a Spherical Robot
+- A Framework for Studying Human–Rigid Body Interaction Dynamics: A Case Study of Hula Hooping
 
 # Publications
 
-1. Honein, T. E. ; O’Reilly, O. M.: [On the Gibbs-Appell Equations for the Dynamics of Rigid Bodies](https://doi.org/10.1115/1.4051181). In: Journal of Applied Mechanics 88 (2021), Nr. 7, 074501-074503. 
+<table>
+  <thead>
+    <tr>
+      <th style="width: 65%; text-align: left;">Publication Details</th>
+      <th style="width: 35%; text-align: left;">Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>1.</strong> Chern, C. ; Honein, T.E. ; O'Reilly, O. M.: The Symphony of Gyrations Producing Steady Motions of a Hula Hoop: Insights from a Network Analysis. Submitted for publication (2026).
+      </td>
+      <td>
+        <iframe width="280" height="158" src="https://www.youtube.com/embed/5wtlAbjDhWc?si=c9PYUGf0gszLlSue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>2.</strong> Honein, T.E. ; O'Reilly, O. M.: The Accessibility of a Hula Hoop: Insights from the Belyakov-Seyranian Model. Submitted for publication (2026).
+      </td>
+      <td>
+        <em style="color: gray; font-size: 0.9em;">No video available</em>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>3.</strong> Honein, T.E. ; O'Reilly, O. M.: <a href="https://doi.org/10.1007/s00707-024-04201-9" target="_blank">On the Dynamics of a Collapsing Set of Blocks</a>. In: Acta Mechanica (2025).
+      </td>
+      <td>
+        <iframe width="280" height="158" src="https://www.youtube.com/embed/_eZ3RTFv-9k?si=L1812WaboIFAgX0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>4.</strong> Honein, T. E. ; O’Reilly, O. M.: <a href="https://doi.org/10.1007/s11071-024-10443-y" target="_blank">On the Dynamics of Transporting Cylinders</a>. In: Nonlinear Dynamics (2024).
+      </td>
+      <td>
+        <iframe width="280" height="158" src="https://www.youtube.com/embed/JE6RyMmsWTQ?si=wN_pHCRAh4sKDq4F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>5.</strong> Honein, T. E. ; O’Reilly, O. M.: <a href="https://doi.org/10.1098/rspa.2023.0684" target="_blank">Explorations of the holonomy of a rolling sphere</a>. In: Proceedings of the Royal Society A 480 (2024), Nr. 2282, 20230684.
+      </td>
+      <td>
+        <iframe width="280" height="158" src="https://www.youtube.com/embed/OP6tvueLgnE?si=k1OVn0TH2FxK1Mud" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>6.</strong> Honein, T. E. ; O’Reilly, O. M.: <a href="https://doi.org/10.1007/s11071-021-06565-2" target="_blank">The geometry of equations of motion: particles in equivalent universes</a>. In: Nonlinear Dynamics 144 (2021), 2979–2994.
+      </td>
+      <td>
+        <iframe width="280" height="158" src="https://www.youtube.com/embed/biJuSaIr2PE?si=XvmP6p2ylthMsejT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>7.</strong> Honein, T. E. ; O’Reilly, O. M.: <a href="https://doi.org/10.1115/1.4051181" target="_blank">On the Gibbs-Appell Equations for the Dynamics of Rigid Bodies</a>. In: Journal of Applied Mechanics 88 (2021), Nr. 7, 074501-074503.
+      </td>
+      <td>
+        <iframe width="280" height="158" src="https://www.youtube.com/embed/NBcgg4WrCiA?si=niAMMwcIO16DNUZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NBcgg4WrCiA?si=niAMMwcIO16DNUZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-2. Honein, T. E. ; O’Reilly, O. M.: [The geometry of equations of motion: particles in equivalent universes](https://doi.org/10.1007/s11071-021-06565-2). In: Nonlinear Dynamics 144 (2021), 2979–2994. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/biJuSaIr2PE?si=XvmP6p2ylthMsejT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-3. Honein, T. E. ; O’Reilly, O. M.: [Explorations of the holonomy of a rolling sphere](https://doi.org/10.1098/rspa.2023.0684). In: Proceedings of the Royal Society A 480 (2024), Nr. 2282, 20230684. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OP6tvueLgnE?si=k1OVn0TH2FxK1pwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-4. Honein, T. E. ; O’Reilly, O. M.: [On the Dynamics of Transporting Cylinders](https://doi.org/10.1007/s11071-024-10443-y). In: Nonlinear Dynamics (2024).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JE6RyMmsWTQ?si=wN_pHCRAh4sKDq4F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-5. Honein, T.E. ; O'Reilly, O. M.: [On the Dynamics of a Collapsing Set of Blocks](https://doi.org/10.1007/s00707-024-04201-9)]. In: Acta Mechanica (2025).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_eZ3RTFv-9k?si=L1812WaboIFAgX0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
 
 # Conferences
 

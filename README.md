@@ -1,7 +1,7 @@
 [RESEARCH](publications)        [TEACHING](teaching.md)
 ---
 
-# AUB Dynamics Research Group
+# Honein Dynamics Lab
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -9,6 +9,7 @@
   </tr>
 </table>
 
+The long-term vision of the \href{https://thh00.github.io}{Honein Dynamics Lab} is to develop accessible technology capable of producing physically accurate simulations of quasi rigid motion from video at low cost. Ultimately, this could enable applications such as mobile tools that teach motor skills ranging from bicycle riding to correct padel technique using only video data. Such technology would deepen our understanding of dynamic phenomena, improve motion diagnosis and optimization, and generate high quality datasets for training future machine learning models.
 
 ## Theresa Honein
 
@@ -78,6 +79,24 @@ My name is Theresa Honein. I earned my Ph.D. in Mechanical Engineering at the Un
     </td>
   </tr>
 </table>
+
+## Maykel Tohme
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <div style="width: 150px;">
+        <img src="headshots/Portrait_Placeholder.png" width="150">
+      </div>
+    </td>
+    <td style="border: none;">
+      Email: mit12 at mail.aub.edu <br><br>
+      I am currently a second year Mechanical Engineering undergraduate student at the American University of Beirut, motivated through an appreciation of dynamics, fluid mechanics, and aerodynamics. I aim to bridge the gap between theory and high-performing engineering.
+      At the moment, I am part of the Baja SAE Suspension Subteam at my university working on optimizing vehicle components for off-road durability. I am developing expertise in simulation and analysis through Finite Element Analysis (FEA) for structural verification and Computational Fluid Dynamics (CFD) for flow analysis. These abilities come from practical experience in the construction of autonomous robots and customized unmanned aerial vehicles using Solidworks, Arduino, and various sensors.
+    </td>
+  </tr>
+</table>
+
 
 
 
