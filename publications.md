@@ -26,7 +26,9 @@
     </tr>
     <tr>
       <td>
-        <strong>6.</strong> Honein, T.E. ; O'Reilly, O. M.: The Accessibility of a Hula Hoop: Insights from the Belyakov-Seyranian Model. Submitted for publication (2026).
+        <strong>6.</strong> Honein, T.E. ; O'Reilly, O. M.: <a
+        href="https://doi.org/10.1007/s11012-026-02157-9"
+        target="_blank">The Accessibility of a Hula Hoop: Insights from the Belyakov-Seyranian Model</a>. In: Meccanica (2026).
       </td>
       <td>
         <em style="color: gray; font-size: 0.9em;">No video available</em>
