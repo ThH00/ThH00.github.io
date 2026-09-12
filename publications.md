@@ -18,7 +18,7 @@
   <tbody>
     <tr>
       <td>
-        <strong>7.</strong> Chern, C. ; Honein, T.E. ; O'Reilly, O. M.: The Symphony of Gyrations Producing Steady Motions of a Hula Hoop: Insights from a Network Analysis. Submitted for publication (2026).
+        <strong>7.</strong> Chern, C. ; Honein, T.E. ; O'Reilly, O. M.: The Symphony of Gyrations Producing Steady Motions of a Hula Hoop: Insights from a Network Analysis. In: Nonlinear Dynamics (2026).
       </td>
       <td>
         <iframe width="280" height="158" src="https://www.youtube.com/embed/5wtlAbjDhWc?si=c9PYUGf0gszLlSue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
