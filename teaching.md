@@ -11,13 +11,18 @@
 - [Fall 2025](https://mech230.github.io/F25/)
 - [Spring 2026](https://mech230.github.io/S26/)
 - Summer 2026
+- [Fall 2026](https://mech230.github.io/F26/)
 
 ## MECH532/620 Intermediate Dynamics
 - [Fall 2025](https://thh00.github.io/mech620/)
 
+## MECH420 Mechanical Design I
+- [Fall 2026](https://thh00.github.io/F26_MECH420/)
+
 ## MECH797 Graduate Seminars
 - Fall 2025
 - Spring 2026
+- [Fall 2026](https://thh00.github.io/seminars/)
 
 ## Photo Gallery
 
