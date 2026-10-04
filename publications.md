@@ -1,4 +1,4 @@
-[RESEARCH](publications)        [TEACHING](teaching.md)
+[RESEARCH](publications)        [TEACHING](teaching.md)       [SEMINARS](https://thh00.github.io/seminars/)
 ---
 
 # Current Projects
@@ -95,6 +95,11 @@
   <div style="text-align: center;">
     <img src="presentations_photos/esmc_july_2025.png" alt="ESMC2025, July 2025 at Lyon Conference Center, France" width="300"/>
     <p>ESMC2025,<br> July 2025 at Lyon Conference Center, France</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="presentations_photos/nodycon_sep_2026.png" alt="NODYCON, September 2026 at Sapienza University, Rome, Italy" width="300"/>
+    <p>ESMC2025,<br> September 2026 at Sapienza University, Rome, Italy </p>
   </div>
 
 </div>
