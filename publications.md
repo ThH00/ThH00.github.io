@@ -31,7 +31,7 @@
         target="_blank">The Accessibility of a Hula Hoop: Insights from the Belyakov-Seyranian Model</a>. In: Meccanica (2026).
       </td>
       <td>
-        <em style="color: gray; font-size: 0.9em;">No video available</em>
+        <iframe width="280" height="158" src="https://www.youtube.com/embed/H3w4xbM3Y-A?si=nIYiDG_iTg3ZzU1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </td>
     </tr>
     <tr>
