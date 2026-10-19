@@ -98,8 +98,8 @@
   </div>
 
   <div style="text-align: center;">
-    <img src="presentations_photos/nodycon_sep_2026.png" alt="NODYCON, September 2026 at Sapienza University, Rome, Italy" width="300"/>
-    <p>ESMC2025,<br> September 2026 at Sapienza University, Rome, Italy </p>
+    <img src="presentations_photos/nodycon_sep_2026.png" alt="NODYCON2026, September 2026 at Sapienza University, Rome, Italy" width="300"/>
+    <p>NODYCON2026,<br> September 2026 at Sapienza University, Rome, Italy </p>
   </div>
 
 </div>
