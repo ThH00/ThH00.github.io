@@ -110,6 +110,9 @@
 - Article in Berkeley Engineering published on February 12, 2024: [Researchers explore the phenomenon of holonomy](https://engineering.berkeley.edu/news/2024/02/researchers-explore-the-phenomenon-of-holonomy/) 
 
 
+# Facilities
+Lab: IOEC319 Shared with Professor Wael Itani.
+
 # Some Notes
 
 - [On the relationship between holonomy and nonintegrable constraints](notes/Holonomy_and_Nonintegrable_Constraints.pdf)
