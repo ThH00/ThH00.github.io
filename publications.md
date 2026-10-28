@@ -1,4 +1,4 @@
-[RESEARCH](publications)        [TEACHING](teaching.md)       [SEMINARS](https://thh00.github.io/seminars/)
+[RESEARCH](publications)        [TEACHING](teaching.md)        [SEMINARS](https://thh00.github.io/seminars/)
 ---
 
 # Current Projects
