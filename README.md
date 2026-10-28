@@ -1,4 +1,4 @@
-[RESEARCH](publications)        [TEACHING](teaching.md)        [SEMINARS](https://thh00.github.io/seminars/)
+[RESEARCH](publications)        [TEACHING](teaching.md)        [SEMINARS](https://thh00.github.io/seminars/)        [IN THE PRESS](press.md)
 ---
 
 # Mechanics of Motion & Dynamics and Data Lab (MoM & DaD Lab)
