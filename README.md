@@ -1,4 +1,4 @@
-[RESEARCH](publications)        [TEACHING](teaching.md)
+[RESEARCH](publications)        [TEACHING](teaching.md)       [SEMINARS](https://thh00.github.io/seminars/)
 ---
 
 # Mechanics of Motion & Dynamics and Data Lab (MoM & DaD Lab)
@@ -118,3 +118,6 @@ Please send the following to theresa.honein at aub.edu.lb:
 
 Join us in advancing our understanding of human body dynamics!
 
+
+
+{% include analytics.html %}
