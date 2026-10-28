@@ -153,3 +153,5 @@
 ### Reading Period: Dec 13-15, 2024
 
 ### Final Exam Period: December 16-22, 2024
+
+{% include analytics.html %}

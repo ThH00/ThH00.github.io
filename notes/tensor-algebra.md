@@ -41,3 +41,5 @@ $$
     {\bf A}({\bf b}\otimes{\bf c}) = ({\bf A}{\bf b})\otimes {\bf c}
 \end{align}
 $$
+
+{% include analytics.html %}

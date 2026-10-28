@@ -42,3 +42,5 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | | Dec 19 | Final Exam | | 3:30-5pm in NICELY 500| Focused on Rigid Bodies |
 
 [MKB Properties of Bodies](solids-mkb.pdf)
+
+{% include analytics.html %}

@@ -94,3 +94,6 @@
   </div>
 
 </div>
+
+
+{% include analytics.html %}
