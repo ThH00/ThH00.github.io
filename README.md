@@ -48,7 +48,9 @@ The long-term vision of the [Mechanics of Motion & Dynamics and Data Lab (MoM & 
   </a> -->
 <!-- </p> -->
 
-## Karim Braidi
+## Graduate Students
+
+### Karim Braidi
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -64,7 +66,9 @@ The long-term vision of the [Mechanics of Motion & Dynamics and Data Lab (MoM & 
   </tr>
 </table>
 
-## Wafic Itani
+## Undergraduate Students
+
+### Wafic Itani
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -80,7 +84,7 @@ The long-term vision of the [Mechanics of Motion & Dynamics and Data Lab (MoM & 
   </tr>
 </table>
 
-## Maykel Tohme
+### Maykel Tohme
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
