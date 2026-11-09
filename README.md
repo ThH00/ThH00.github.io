@@ -121,6 +121,22 @@ The long-term vision of the [Mechanics of Motion & Dynamics and Data Lab (MoM & 
 
 
 
+### Haroun El Bouz
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <div style="width: 150px;">
+        <img src="headshots/Haroun_ElBouz.jpg" width="150">
+      </div>
+    </td>
+    <td style="border: none;">
+      Email: hbe06 at mail.aub.edu <br><br>
+      I am a second-year Mechanical Engineering undergraduate student at AUB, driven by a strong interest in mechatronics, robotics, and dynamics. I am particularly passionate about bridging the gap between computational simulations and physical reality. I constantly challenge myself by exploring advanced concepts, and I place high value on turning theoretical ideas into simulation models and physical experiments to validate computational predictions directly against real-world results.
+    </td>
+  </tr>
+</table>
+
 ## Join our research group!
 
 I am currently recruiting motivated undergraduate and M.S. students to join my research team. Our work focuses on reproducing the accurate dynamics of the human body using motion capture technologies.
