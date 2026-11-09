@@ -66,6 +66,23 @@ The long-term vision of the [Mechanics of Motion & Dynamics and Data Lab (MoM & 
   </tr>
 </table>
 
+### Elissa Ephrem
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <div style="width: 150px;">
+        <img src="headshots/elissa_ephrem.png" width="150">
+      </div>
+    </td>
+    <td style="border: none;">
+      Email: eee19 at mail.aub.edu <br>
+      <a href="https://www.linkedin.com/in/elissa-ephrem-4850ab2b5/" target="_blank">LinkedIn</a><br><br>
+      I am a Mechanical Engineer and Master's candidate in Mechanical Engineering at AUB, with practical experience spanning manufacturing, automotive engineering, research, product development, and industrial operations. My engineering journey has provided me with diverse exposure through internships and technical experiences with organizations including Mitsulift, Mercedes-Benz, Maserati, Bassoul-Heneine (BMW Distributor), and INDEVCO.
+    </td>
+  </tr>
+</table>
+
 ## Undergraduate Students
 
 ### Wafic Itani
