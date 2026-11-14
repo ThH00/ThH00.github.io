@@ -51,4 +51,4 @@ Please visit [https://matlab.mathworks.com/](https://matlab.mathworks.com/), and
 Before completing the recommended problems, please read this [note on units](notes/Note_on_Units.pdf).
 
 ### Active Learning
-Check out these two excellent videos of Professor Noel Perkins from the Univesity of Michigan at Ann Arbor explaining the active learning techniques he uses to teach dynamics! [Part 1](https://www.youtube.com/watch?v=wHEys-JHeb8), [Part 2](https://www.youtube.com/watch?v=96j69u4v-wE). We will using these techniques ourselves.
+Check out these two excellent videos of Professor Noel Perkins from the University of Michigan at Ann Arbor explaining the active learning techniques he uses to teach dynamics! [Part 1](https://www.youtube.com/watch?v=wHEys-JHeb8), [Part 2](https://www.youtube.com/watch?v=96j69u4v-wE). We will be using these techniques ourselves.

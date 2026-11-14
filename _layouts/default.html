@@ -20,6 +20,7 @@
   {%- assign section = page.section -%}
   {%- if section == nil -%}
     {%- if page.url contains "publications" -%}{%- assign section = "research" -%}
+    {%- elsif page.url contains "people" -%}{%- assign section = "people" -%}
     {%- elsif page.url contains "teaching" or page.url contains "08-2024-dynamics" -%}{%- assign section = "teaching" -%}
     {%- elsif page.url contains "press" -%}{%- assign section = "press" -%}
     {%- endif -%}

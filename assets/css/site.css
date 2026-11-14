@@ -235,6 +235,14 @@ iframe[src*="youtube.com"] {
 .lab-banner h2 { margin: 0 0 0.4em; border: 0; padding: 0; font-size: 1.3rem; }
 .lab-banner p { margin: 0; }
 
+.people-link {
+  background: var(--accent-tint);
+  border-radius: var(--radius);
+  padding: 14px 20px;
+  margin: 8px 0 0;
+}
+.people-link a:first-child { font-weight: 600; }
+
 /* People cards */
 .people {
   display: grid;

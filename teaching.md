@@ -19,8 +19,8 @@
 - [Fall 2026](https://thh00.github.io/F26_MECH420/)
 
 ### MECH797 Graduate Seminars
-- Fall 2025
-- Spring 2026
+- [Fall 2025](https://thh00.github.io/seminars/archive/)
+- [Spring 2026](https://thh00.github.io/seminars/archive/)
 - [Fall 2026](https://thh00.github.io/seminars/)
 
 ### Photo Gallery

@@ -87,8 +87,8 @@
   </figure>
 
   <figure>
-    <img src="presentations_photos/nodycon_june_2025.png" alt="NODYCON2025, June 2025 at Stevens Institure of Technology, NJ, USA" loading="lazy">
-    <figcaption>NODYCON2025,<br> June 2025 at Stevens Institure of Technology, NJ, USA</figcaption>
+    <img src="presentations_photos/nodycon_june_2025.png" alt="NODYCON2025, June 2025 at Stevens Institute of Technology, NJ, USA" loading="lazy">
+    <figcaption>NODYCON2025,<br> June 2025 at Stevens Institute of Technology, NJ, USA</figcaption>
   </figure>
 
   <figure>
