@@ -1,2 +1,24 @@
 title: Theresa Honein
-description: Professional Website
+description: Theresa Honein — Assistant Professor of Mechanical Engineering at AUB and the MoM & DaD Lab.
+
+# Used by the shared header/footer. Empty here; sub-sites (e.g. /seminars) set it to "https://thh00.github.io".
+home_url: ""
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: "notes"
+    values:
+      math: true
+  - scope:
+      path: "08-2024-dynamics/continuum-mechanics.md"
+    values:
+      math: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor

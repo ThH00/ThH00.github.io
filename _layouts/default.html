@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title and page.url != "/" %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  {%- if page.math %}
+  <script>
+    window.MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] } };
+  </script>
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"></script>
+  {%- endif %}
+</head>
+<body>
+  {%- assign section = page.section -%}
+  {%- if section == nil -%}
+    {%- if page.url contains "publications" -%}{%- assign section = "research" -%}
+    {%- elsif page.url contains "teaching" or page.url contains "08-2024-dynamics" -%}{%- assign section = "teaching" -%}
+    {%- elsif page.url contains "press" -%}{%- assign section = "press" -%}
+    {%- endif -%}
+  {%- endif -%}
+  {% include site-header.html section=section %}
+
+  {%- if page.url contains "08-2024-dynamics" %}
+  <nav class="sub-nav" aria-label="MECH 230 Fall 2024">
+    <div class="wrap">
+      <span class="sub-nav-title">MECH 230 · Fall 2024</span>
+      <a href="{{ '/08-2024-dynamics/homepage' | relative_url }}"{% if page.url contains "homepage" %} class="active"{% endif %}>Home</a>
+      <a href="{{ '/08-2024-dynamics/lectures-agenda' | relative_url }}"{% if page.url contains "lectures-agenda" %} class="active"{% endif %}>Agenda</a>
+      <a href="{{ '/08-2024-dynamics/announcements' | relative_url }}"{% if page.url contains "announcements" %} class="active"{% endif %}>Announcements</a>
+    </div>
+  </nav>
+  {%- endif %}
+
+  <main class="wrap">
+    {{ content }}
+  </main>
+
+  {% include site-footer.html %}
+  {% include analytics.html %}
+</body>
+</html>

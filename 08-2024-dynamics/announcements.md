@@ -1,6 +1,3 @@
-[MECH230 Home](homepage.md)        [Agenda](lectures-agenda.md)        [Annoucements](announcements.md)
----
-
 ## Announcements
 
 | Semester | Midterm 1 | Solution | Midterm 2 | Solution | Final | Solution |
@@ -55,9 +52,3 @@ Before completing the recommended problems, please read this [note on units](not
 
 ### Active Learning
 Check out these two excellent videos of Professor Noel Perkins from the Univesity of Michigan at Ann Arbor explaining the active learning techniques he uses to teach dynamics! [Part 1](https://www.youtube.com/watch?v=wHEys-JHeb8), [Part 2](https://www.youtube.com/watch?v=96j69u4v-wE). We will using these techniques ourselves.
-
-
-
-
-
-{% include analytics.html %}

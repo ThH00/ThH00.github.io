@@ -1,12 +1,11 @@
-[RESEARCH](publications)        [TEACHING](teaching.md)        [SEMINARS](https://thh00.github.io/seminars/)        [IN THE PRESS](press.md)
----
+# Research
 
-# Current Projects
+## Current Projects
 - Enabling Precise Payload Handling in Soft Robotics through Advanced Contact Mechanics: A Discrete Elastic Rod Framework for Rigid Payload Manipulation
 - Modelling and Control of a Spherical Robot
 - A Framework for Studying Human–Rigid Body Interaction Dynamics: A Case Study of Hula Hooping
 
-# Publications
+## Publications
 
 <table>
   <thead>
@@ -79,38 +78,35 @@
 
 ---
 
-# Conferences
+## Conferences
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="text-align: center;">
-    <img src="presentations_photos/compfest_dec_2022.png" alt="Stanford/Berkeley Compfest, December 2022 at Stanford University, CA, USA" width="300"/>
-    <p>Stanford/Berkeley Compfest,<br> December 2022 at Stanford University, CA, USA</p>
-  </div>
+<div class="gallery">
+  <figure>
+    <img src="presentations_photos/compfest_dec_2022.png" alt="Stanford/Berkeley Compfest, December 2022 at Stanford University, CA, USA" loading="lazy">
+    <figcaption>Stanford/Berkeley Compfest,<br> December 2022 at Stanford University, CA, USA</figcaption>
+  </figure>
 
-  <div style="text-align: center;">
-    <img src="presentations_photos/nodycon_june_2025.png" alt="NODYCON2025, June 2025 at Stevens Institure of Technology, NJ, USA" width="300"/>
-    <p>NODYCON2025,<br> June 2025 at Stevens Institure of Technology, NJ, USA</p>
-  </div>
+  <figure>
+    <img src="presentations_photos/nodycon_june_2025.png" alt="NODYCON2025, June 2025 at Stevens Institure of Technology, NJ, USA" loading="lazy">
+    <figcaption>NODYCON2025,<br> June 2025 at Stevens Institure of Technology, NJ, USA</figcaption>
+  </figure>
 
-  <div style="text-align: center;">
-    <img src="presentations_photos/esmc_july_2025.png" alt="ESMC2025, July 2025 at Lyon Conference Center, France" width="300"/>
-    <p>ESMC2025,<br> July 2025 at Lyon Conference Center, France</p>
-  </div>
+  <figure>
+    <img src="presentations_photos/esmc_july_2025.png" alt="ESMC2025, July 2025 at Lyon Conference Center, France" loading="lazy">
+    <figcaption>ESMC2025,<br> July 2025 at Lyon Conference Center, France</figcaption>
+  </figure>
 
-  <div style="text-align: center;">
-    <img src="presentations_photos/nodycon_sep_2026.png" alt="NODYCON2026, September 2026 at Sapienza University, Rome, Italy" width="300"/>
-    <p>NODYCON2026,<br> September 2026 at Sapienza University, Rome, Italy </p>
-  </div>
+  <figure>
+    <img src="presentations_photos/nodycon_sep_2026.png" alt="NODYCON2026, September 2026 at Sapienza University, Rome, Italy" loading="lazy">
+    <figcaption>NODYCON2026,<br> September 2026 at Sapienza University, Rome, Italy</figcaption>
+  </figure>
 
 </div>
 
-# Facilities
+## Facilities
 Lab: IOEC319 Shared with Professor Wael Itani.
 
-# Some Notes
+## Some Notes
 
 - [On the relationship between holonomy and nonintegrable constraints](notes/Holonomy_and_Nonintegrable_Constraints.pdf)
 - [On a basis formed by the quaternion representation of a rotation](notes/quaternion_basis.pdf)
-
-
-{% include analytics.html %}

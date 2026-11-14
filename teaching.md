@@ -1,9 +1,8 @@
-[RESEARCH](publications)        [TEACHING](teaching.md)        [SEMINARS](https://thh00.github.io/seminars/)        [IN THE PRESS](press.md)
----
+# Teaching
 
-# Classes
+## Classes
 
-## MECH230 Undergraduate Dynamics
+### MECH230 Undergraduate Dynamics
 
 - [Fall 2024](08-2024-dynamics/homepage.md)
 - [Spring 2025](https://mech230.github.io/S25/)
@@ -13,87 +12,84 @@
 - Summer 2026
 - [Fall 2026](https://mech230.github.io/F26/)
 
-## MECH532/620 Intermediate Dynamics
+### MECH532/620 Intermediate Dynamics
 - [Fall 2025](https://thh00.github.io/mech620/)
 
-## MECH420 Mechanical Design I
+### MECH420 Mechanical Design I
 - [Fall 2026](https://thh00.github.io/F26_MECH420/)
 
-## MECH797 Graduate Seminars
+### MECH797 Graduate Seminars
 - Fall 2025
 - Spring 2026
 - [Fall 2026](https://thh00.github.io/seminars/)
 
-## Photo Gallery
+### Photo Gallery
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="text-align: center;">
-    <img src="class_photos/Fall2024_MECH230_Section2.JPG" alt="Fall2024_MECH230_Section2" width="300"/>
-    <p>Fall2024 MECH230 Section2</p>
-  </div>
+<div class="gallery">
+  <figure>
+    <img src="class_photos/Fall2024_MECH230_Section2.JPG" alt="Fall2024_MECH230_Section2" loading="lazy">
+    <figcaption>Fall2024 MECH230 Section2</figcaption>
+  </figure>
 
-  <div style="text-align: center;">
-    <img src="class_photos/Spring2025_MECH230_Section1.JPG" alt="Spring2025_MECH230_Section1" width="300"/>
-    <p>Spring2025 MECH230 Section1</p>
-  </div>
+  <figure>
+    <img src="class_photos/Spring2025_MECH230_Section1.JPG" alt="Spring2025_MECH230_Section1" loading="lazy">
+    <figcaption>Spring2025 MECH230 Section1</figcaption>
+  </figure>
 
-  <div style="text-align: center;">
-    <img src="class_photos/Spring2025_MECH230_Section5.JPG" alt="Spring2025_MECH230_Section5" width="300"/>
-    <p>Spring2025 MECH230 Section5</p>
-  </div>
+  <figure>
+    <img src="class_photos/Spring2025_MECH230_Section5.JPG" alt="Spring2025_MECH230_Section5" loading="lazy">
+    <figcaption>Spring2025 MECH230 Section5</figcaption>
+  </figure>
 
-  <div style="text-align: center;">
-    <img src="class_photos/Fall2025_MECH230_Section1.jpg" alt="Fall2025_MECH230_Section1" width="300"/>
-    <p>Fall2025 MECH230 Section1</p>
-  </div>
+  <figure>
+    <img src="class_photos/Fall2025_MECH230_Section1.jpg" alt="Fall2025_MECH230_Section1" loading="lazy">
+    <figcaption>Fall2025 MECH230 Section1</figcaption>
+  </figure>
 
-  <div style="text-align: center;">
-    <img src="class_photos/Fall2025_MECH620.jpg" alt="Fall2025_MECH620" width="300"/>
-    <p>Fall2025 MECH532/620</p>
-  </div>
+  <figure>
+    <img src="class_photos/Fall2025_MECH620.jpg" alt="Fall2025_MECH620" loading="lazy">
+    <figcaption>Fall2025 MECH532/620</figcaption>
+  </figure>
 
-  <div style="text-align: center;">
-    <img src="class_photos/Spring2026_MECH230_Section2.jpg" alt="Spring2026_MECH230_Section2" width="300"/>
-    <p>Spring2026 MECH230 Section2</p>
-  </div>
+  <figure>
+    <img src="class_photos/Spring2026_MECH230_Section2.jpg" alt="Spring2026_MECH230_Section2" loading="lazy">
+    <figcaption>Spring2026 MECH230 Section2</figcaption>
+  </figure>
 
-  <div style="text-align: center;">
-    <img src="class_photos/Spring2026_MECH230_Section5.jpg" alt="Spring2026_MECH230_Section5" width="300"/>
-    <p>Spring2026 MECH230 Section5</p>
-  </div>
+  <figure>
+    <img src="class_photos/Spring2026_MECH230_Section5.jpg" alt="Spring2026_MECH230_Section5" loading="lazy">
+    <figcaption>Spring2026 MECH230 Section5</figcaption>
+  </figure>
 
 
 
 </div>
 
-# Final Year Projects
+## Final Year Projects
 
-## AY 2024-2025
+### AY 2024-2025
 - `Designing and Building a Racing Wheelchair` by Bahaa Abed, Kevin Ibrahim, Leatithia Zeitouny and Lynn Barhouche. [[Poster](https://drive.google.com/file/d/1McinD52IDseHa2RCwR1Cel1bHMsAfo8H/view?usp=sharing), [Video](https://youtu.be/WT_aFLQ14Ss?si=7zVLr2RhIYNThZ7k)]
 
 - `Modeling and Building a Robotic Hand` by Joe Azzi, Karelle Honein, Joe Moussa and Leo Tchennozian. [Poster, Video]
 
 - `Analysis of Almaza Twist Off Caps` by Joe Raphael, Elie Bechara, Anthony Khoury, Nabil Tabanji.
 
-## Photo Gallery
+### Photo Gallery
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="text-align: center;">
-    <img src="fyp_photos/2025_racing_wheelchair.jpeg" alt="2025 Racing Wheelchair" width="300"/>
-    <p>2025 Racing Wheelchair</p>
-  </div>
+<div class="gallery">
+  <figure>
+    <img src="fyp_photos/2025_racing_wheelchair.jpeg" alt="2025 Racing Wheelchair" loading="lazy">
+    <figcaption>2025 Racing Wheelchair</figcaption>
+  </figure>
 
-  <div style="text-align: center;">
-    <img src="fyp_photos/2025_robotic_hand.png" alt="2025 Robotic Hand" width="200"/>
-    <p>2025 Robotic Hand</p>
-  </div>
+  <figure>
+    <img src="fyp_photos/2025_robotic_hand.png" alt="2025 Robotic Hand" loading="lazy">
+    <figcaption>2025 Robotic Hand</figcaption>
+  </figure>
 
-  <div style="text-align: center;">
-    <img src="fyp_photos/2026_almaza.jpg" alt="2026 Almaza Bottles" width="300"/>
-    <p>2026 Almaza Bottles</p>
-  </div>
+  <figure>
+    <img src="fyp_photos/2026_almaza.jpg" alt="2026 Almaza Bottles" loading="lazy">
+    <figcaption>2026 Almaza Bottles</figcaption>
+  </figure>
 
 </div>
-
-
-{% include analytics.html %}

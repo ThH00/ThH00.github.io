@@ -1,6 +1,3 @@
-[MECH230 Home](homepage.md)        [Agenda](lectures-agenda.md)        [Annoucements](announcements.md)
----
-
 # MECH 230 Dynamics - Section 2
 Lecture: MW 2:00-3:15 pm in Bechtel 211\
 Discussion: M 3:30-4:45 pm in Bechtel 211 starting Monday September 2\
@@ -42,5 +39,3 @@ Office Hours: M 10:30-11:30am, T 2:00-3:00pm, Th 10:30-11:30am in Bechtel 532
 | | Dec 19 | Final Exam | | 3:30-5pm in NICELY 500| Focused on Rigid Bodies |
 
 [MKB Properties of Bodies](solids-mkb.pdf)
-
-{% include analytics.html %}

@@ -1,6 +1,3 @@
-[MECH230 Home](homepage.md)        [Agenda](lectures-agenda.md)        [Annoucements](announcements.md)
----
-
 ## Lecture Agendas
 
 ### Lecture 1 - Monday Aug 26
@@ -153,5 +150,3 @@
 ### Reading Period: Dec 13-15, 2024
 
 ### Final Exam Period: December 16-22, 2024
-
-{% include analytics.html %}

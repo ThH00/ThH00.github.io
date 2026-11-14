@@ -15,6 +15,3 @@ ${\bf A}^T = -{\bf A}$.
 
 Sources
 - [Lie Algebra Method for Pose Optimization Computation](https://iim.cs.tut.ac.jp/member/kanatani/papers/Liealgebra.pdf)
-
-
-{% include analytics.html %}

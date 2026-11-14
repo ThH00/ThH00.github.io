@@ -7,9 +7,3 @@ Rigid bodies are charaterized by the face that the distance between two material
 Particles are rigid bodies whose rotational inertia can be ignored.
 
 # Preliminaries on Vectors
-
-
-
-
-
-{% include analytics.html %}
