@@ -19,7 +19,7 @@ Office Phone: +961-1-340460 / 350000 Ext. 3429
 <img src="social_media_logos/youtube.png" alt="" height="16" style="vertical-align: -2px; margin-right: 4px;">Subscribe on YouTube
 </a>
 <a href="https://scholar.google.com/citations?user=_LwpuP4AAAAJ&amp;hl=en" target="_blank">
-<img src="social_media_logos/google_scholar.png" alt="" height="16">Google Scholar
+<img src="social_media_logos/google_scholar.png" alt="Google Scholar" height="16">
 </a>
 </div>
 </div>
