@@ -67,12 +67,18 @@
 
 ## Final Year Projects
 
+### AY 2026-2027
+- `Spherical Robot` by Tala Rajab, Ahmad Mhanna, Karl Salame and Riad El Mousharrafie.
+
+- `Soft Robotic Hand` by Clara Chami, Christie Saikaly, Fatima Assaf and Marylin Boustani.
+
+### AY 2025-2026
+- `Analysis of Almaza Twist Off Caps` by Joe Raphael, Elie Bechara, Anthony Khoury, Nabil Tabanji.
+
 ### AY 2024-2025
 - `Designing and Building a Racing Wheelchair` by Bahaa Abed, Kevin Ibrahim, Leatithia Zeitouny and Lynn Barhouche. [[Poster](https://drive.google.com/file/d/1McinD52IDseHa2RCwR1Cel1bHMsAfo8H/view?usp=sharing), [Video](https://youtu.be/WT_aFLQ14Ss?si=7zVLr2RhIYNThZ7k)]
 
 - `Modeling and Building a Robotic Hand` by Joe Azzi, Karelle Honein, Joe Moussa and Leo Tchennozian. [Poster, Video]
-
-- `Analysis of Almaza Twist Off Caps` by Joe Raphael, Elie Bechara, Anthony Khoury, Nabil Tabanji.
 
 ### Photo Gallery
 
