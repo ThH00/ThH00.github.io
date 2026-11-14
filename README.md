@@ -1,5 +1,6 @@
 ---
 title: Theresa Honein
+permalink: /
 ---
 
 <div class="profile">
