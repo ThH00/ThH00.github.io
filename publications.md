@@ -20,7 +20,7 @@
         <strong>7.</strong> Chern, C. ; Honein, T.E. ; O'Reilly, O. M.: The Symphony of Gyrations Producing Steady Motions of a Hula Hoop: Insights from a Network Analysis. In: Nonlinear Dynamics (2026).
       </td>
       <td>
-        <iframe width="280" height="158" src="https://www.youtube.com/embed/5wtlAbjDhWc?si=c9PYUGf0gszLlSue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="280" height="158" src="https://www.youtube.com/embed/H3w4xbM3Y-A?si=nIYiDG_iTg3ZzU1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@
         target="_blank">The Accessibility of a Hula Hoop: Insights from the Belyakov-Seyranian Model</a>. In: Meccanica (2026).
       </td>
       <td>
-        <iframe width="280" height="158" src="https://www.youtube.com/embed/H3w4xbM3Y-A?si=nIYiDG_iTg3ZzU1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="280" height="158" src="https://www.youtube.com/embed/5wtlAbjDhWc?si=c9PYUGf0gszLlSue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </td>
     </tr>
     <tr>
