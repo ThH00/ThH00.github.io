@@ -1,4 +1,5 @@
 # In the Press
+- Radio segment on KCBS Radio (San Francisco), November 26, 2026: [What are the physics behind the hula hoop? Berkeley researchers find out](https://www.audacy.com/podcast/kcbs-radio-on-demand-011f4/episodes/what-are-the-physics-behind-the-hula-hoop-berkeley-researchers-find-out-d5781)
 - Article in Science & Vie (in French), November 2026: [Après 20 ans de recherche et des analyses à 120 images par seconde, les chercheurs déchiffrent enfin le secret du hula hoop](https://www.science-et-vie.com/sciences-fondamentales/physique/apres-20-ans-de-recherche-et-des-analyses-a-120-images-par-seconde-les-chercheurs-dechiffrent-enfin-le-secret-du-hula-hoop-oubliez-tout-ce-quon-vous-a-dit-265487.html)
 - Article in Berkeley News published on October 27, 2026: [How Berkeley researchers decoded the loopy physics of hula hooping](https://news.berkeley.edu/2026/10/27/how-berkeley-researchers-decoded-the-loopy-physics-of-hula-hooping/)
 - Mention by NODYCON on LinkedIn, October 2026: [NODYCON post](https://www.linkedin.com/feed/update/urn:li:activity:7520961025899118593/)
